@@ -1,0 +1,83 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11628</md:content-id>
+    <md:title>Derived copy of Anatomy &amp; Physiology 5</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>198ac402-326d-4394-9d5d-3f28b6aa525b</md:uuid>
+<md:slug>derived-copy-of-anatomy-physiology-5</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Unit 5: Energy, Maintenance, and Environmental Exchange</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Respiratory System</md:title>
+          <col:content>
+            <col:module document="m46523"/>
+            <col:module document="m46548"/>
+            <col:module document="m46551"/>
+            <col:module document="m46549"/>
+            <col:module document="m46521"/>
+            <col:module document="m46545"/>
+            <col:module document="m46524"/>
+            <col:module document="m46518"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Digestive System</md:title>
+          <col:content>
+            <col:module document="m46505"/>
+            <col:module document="m46506"/>
+            <col:module document="m46502"/>
+            <col:module document="m46511"/>
+            <col:module document="m46517"/>
+            <col:module document="m46512"/>
+            <col:module document="m46496"/>
+            <col:module document="m46501"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Metabolism and Nutrition</md:title>
+          <col:content>
+            <col:module document="m46458"/>
+            <col:module document="m46489"/>
+            <col:module document="m46451"/>
+            <col:module document="m46462"/>
+            <col:module document="m46493"/>
+            <col:module document="m46466"/>
+            <col:module document="m46456"/>
+            <col:module document="m46467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Urinary System</md:title>
+          <col:content>
+            <col:module document="m46430"/>
+            <col:module document="m46432"/>
+            <col:module document="m46427"/>
+            <col:module document="m46429"/>
+            <col:module document="m46431"/>
+            <col:module document="m46433"/>
+            <col:module document="m46443"/>
+            <col:module document="m46435"/>
+            <col:module document="m46424"/>
+            <col:module document="m46434"/>
+            <col:module document="m46446"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fluid, Electrolyte, and Acid-Base Balance</md:title>
+          <col:content>
+            <col:module document="m46415"/>
+            <col:module document="m46411"/>
+            <col:module document="m46416"/>
+            <col:module document="m46414"/>
+            <col:module document="m46409"/>
+            <col:module document="m46413"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
