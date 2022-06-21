@@ -1,0 +1,102 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11622</md:content-id>
+    <md:title>Derived copy of Anatomy &amp; Physiology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b691358e-2367-471a-b04b-982bd0b1d596</md:uuid>
+<md:slug>derived-copy-of-anatomy-physiology</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Unit 2: Support and Movement</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Integumentary System</md:title>
+          <col:content>
+            <col:module document="m46059"/>
+            <col:module document="m46060"/>
+            <col:module document="m46062"/>
+            <col:module document="m46064"/>
+            <col:module document="m46066"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Bone Tissue and the Skeletal System</md:title>
+          <col:content>
+            <col:module document="m46290"/>
+            <col:module document="m46341"/>
+            <col:module document="m46282"/>
+            <col:module document="m46281"/>
+            <col:module document="m46301"/>
+            <col:module document="m46342"/>
+            <col:module document="m46305"/>
+            <col:module document="m46295"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Axial Skeleton</md:title>
+          <col:content>
+            <col:module document="m46347"/>
+            <col:module document="m46344"/>
+            <col:module document="m46355"/>
+            <col:module document="m46352"/>
+            <col:module document="m46350"/>
+            <col:module document="m46348"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Appendicular Skeleton</md:title>
+          <col:content>
+            <col:module document="m46370"/>
+            <col:module document="m46374"/>
+            <col:module document="m46368"/>
+            <col:module document="m46375"/>
+            <col:module document="m46364"/>
+            <col:module document="m46376"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Joints</md:title>
+          <col:content>
+            <col:module document="m46402"/>
+            <col:module document="m46383"/>
+            <col:module document="m46403"/>
+            <col:module document="m46381"/>
+            <col:module document="m46394"/>
+            <col:module document="m46398"/>
+            <col:module document="m46377"/>
+            <col:module document="m46388"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Muscle Tissue</md:title>
+          <col:content>
+            <col:module document="m46450"/>
+            <col:module document="m46473"/>
+            <col:module document="m46476"/>
+            <col:module document="m46447"/>
+            <col:module document="m46470"/>
+            <col:module document="m46480"/>
+            <col:module document="m46438"/>
+            <col:module document="m46404"/>
+            <col:module document="m46478"/>
+            <col:module document="m46407"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Muscular System</md:title>
+          <col:content>
+            <col:module document="m46492"/>
+            <col:module document="m46487"/>
+            <col:module document="m46498"/>
+            <col:module document="m46484"/>
+            <col:module document="m46485"/>
+            <col:module document="m46495"/>
+            <col:module document="m46482"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
