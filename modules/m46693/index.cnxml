@@ -1,11 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>The Pineal Gland </title>
+<title>The Pineal Gland</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46693</md:content-id>
-  <md:title>The Pineal Gland </md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-<list id="list-00001">
+  <md:title>The Pineal Gland</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Describe the location and structure of the pineal gland</item>
 <item>Discuss the function of melatonin</item>
 </list></md:abstract>
@@ -13,11 +13,14 @@
 </metadata>
 
 <content>
-<para id="fs-id1355539">Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus. Inferior but somewhat posterior to the thalamus is the <term id="term-00001">pineal gland</term>, a tiny endocrine gland whose functions are not entirely clear. The <term id="term-00002">pinealocyte</term> cells that make up the pineal gland are known to produce and secrete the amine hormone <term id="term-00003">melatonin</term>, which is derived from serotonin.</para>
+<para id="fs-id1355539">Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus. Inferior but somewhat posterior to the thalamus is the <term>pineal gland</term>, a tiny endocrine gland whose functions are not entirely clear. The <term>pinealocyte</term> cells that make up the pineal gland are known to produce and secrete the amine hormone <term>melatonin</term>, which is derived from serotonin.</para>
 <para id="fs-id1391140">The secretion of melatonin varies according to the level of light received from the environment. When photons of light stimulate the retinas of the eyes, a nerve impulse is sent to a region of the hypothalamus called the suprachiasmatic nucleus (SCN), which is important in regulating biological rhythms. From the SCN, the nerve signal is carried to the spinal cord and eventually to the pineal gland, where the production of melatonin is inhibited. As a result, blood levels of melatonin fall, promoting wakefulness. In contrast, as light levels decline—such as during the evening—melatonin production increases, boosting blood levels and causing drowsiness.</para>
 <note id="fs-id1249408" class="anatomy interactive">
 <label/>
-<para id="fs-id1326362">Visit this <link url="http://openstax.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para>
+<media id="fs-id1374655" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/melatonin.png" width="120"/>
+</media>
+<para id="fs-id1326362">Visit this <link url="http://openstaxcollege.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para>
 </note>
 <para id="fs-id1388310">The secretion of melatonin may influence the body’s circadian rhythms, the dark-light fluctuations that affect not only sleepiness and wakefulness, but also appetite and body temperature. Interestingly, children have higher melatonin levels than adults, which may prevent the release of gonadotropins from the anterior pituitary, thereby inhibiting the onset of puberty. Finally, an antioxidant role of melatonin is the subject of current research.</para>
 <para id="fs-id1492434">Jet lag occurs when a person travels across several time zones and feels sleepy during the day or wakeful at night. Traveling across multiple time zones significantly disturbs the light-dark cycle regulated by melatonin. It can take up to several days for melatonin synthesis to adjust to the light-dark patterns in the new environment, resulting in jet lag. Some air travelers take melatonin supplements to induce sleep.</para>
@@ -28,7 +31,7 @@
 <section id="fs-id1212218" class="interactive-exercise">
 <title>Interactive Link Questions</title>
 <exercise id="fs-id1240203">
-<problem id="fs-id1260523"><para id="fs-id1473985">Visit this <link url="http://openstax.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para></problem>
+<problem id="fs-id1260523"><para id="fs-id1473985">Visit this <link url="http://openstaxcollege.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para></problem>
 <solution id="fs-id1242479">
 <label/>
 <para id="fs-id1283197">Turning on the lights.</para></solution>
@@ -82,7 +85,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1409186"><term>melatonin</term> <meaning id="fs-id1204935">amino acid–derived hormone that is secreted in response to low light and causes drowsiness</meaning></definition>
 <definition id="fs-id2514459"><term>pineal gland</term> <meaning id="fs-id2260471">endocrine gland that secretes melatonin, which is important in regulating the sleep-wake cycle</meaning></definition>

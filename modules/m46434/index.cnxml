@@ -1,11 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>Regulation of Fluid Volume and Composition </title>
+<title>Regulation of Fluid Volume and Composition</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46434</md:content-id>
-  <md:title>Regulation of Fluid Volume and Composition </md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-<list id="list-00001">
+  <md:title>Regulation of Fluid Volume and Composition</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Explain the mechanism of action of diuretics</item>
 <item>Explain why the differential permeability or impermeability of specific sections of the nephron tubules is necessary for urine formation</item>
 </list></md:abstract>
@@ -24,7 +24,7 @@
 </section>
 <section id="fs-id2298462">
 <title>Diuretics and Fluid Volume</title>
-<para id="fs-id2396821">A <term id="term-00001">diuretic</term> is a compound that increases urine volume. Three familiar drinks contain diuretic compounds: coffee, tea, and alcohol. The caffeine in coffee and tea works by promoting vasodilation in the nephron, which increases GFR. Alcohol increases GFR by inhibiting ADH release from the posterior pituitary, resulting in less water recovery by the collecting duct. In cases of high blood pressure, diuretics may be prescribed to reduce blood volume and, thereby, reduce blood pressure. The most frequently prescribed anti-hypertensive diuretic is hydrochlorothiazide. It inhibits the Na<sup>+</sup>/ Cl<sup>– </sup>symporter in the DCT and collecting duct. The result is a loss of Na<sup>+</sup> with water following passively by osmosis.</para>
+<para id="fs-id2396821">A <term>diuretic</term> is a compound that increases urine volume. Three familiar drinks contain diuretic compounds: coffee, tea, and alcohol. The caffeine in coffee and tea works by promoting vasodilation in the nephron, which increases GFR. Alcohol increases GFR by inhibiting ADH release from the posterior pituitary, resulting in less water recovery by the collecting duct. In cases of high blood pressure, diuretics may be prescribed to reduce blood volume and, thereby, reduce blood pressure. The most frequently prescribed anti-hypertensive diuretic is hydrochlorothiazide. It inhibits the Na<sup>+</sup>/ Cl<sup>– </sup>symporter in the DCT and collecting duct. The result is a loss of Na<sup>+</sup> with water following passively by osmosis.</para>
 <para id="fs-id2433958">Osmotic diuretics promote water loss by osmosis. An example is the indigestible sugar mannitol, which is most often administered to reduce brain swelling after head injury. However, it is not the only sugar that can produce a diuretic effect. In cases of poorly controlled diabetes mellitus, glucose levels exceed the capacity of the tubular glucose symporters, resulting in glucose in the urine. The unrecovered glucose becomes a powerful osmotic diuretic. Classically, in the days before glucose could be detected in the blood and urine, clinicians identified diabetes mellitus by the three Ps: polyuria (diuresis), polydipsia (increased thirst), and polyphagia (increased hunger).</para>
 </section>
 <section id="fs-id2267360">
@@ -41,7 +41,8 @@
 </section>
 <section id="fs-id1413567">
 <title>Regulation of Ca<sup>++</sup> and Phosphate</title>
-<para id="fs-id2111766">The parathyroid glands monitor and respond to circulating levels of Ca<sup>++</sup> in the blood. When levels drop too low, PTH is released to stimulate the DCT to reabsorb Ca<sup>++ </sup>from the forming urine. When levels are adequate or high, less PTH is released and more Ca<sup>++</sup> remains in the forming urine to be lost. Phosphate levels move in the opposite direction. When Ca<sup>++</sup> levels are low, PTH inhibits reabsorption of <m:math>
+<para id="fs-id2111766">The parathyroid glands monitor and respond to circulating levels of Ca<sup>++</sup> in the blood. When levels drop too low, PTH is released to stimulate the DCT to reabsorb Ca<sup>++ </sup>from the forming urine. When levels are adequate or high, less PTH is released and more Ca<sup>++</sup> remains in the forming urine to be lost. Phosphate levels move in the opposite direction. When Ca<sup>++</sup> levels are low, PTH inhibits reabsorption of <m:math display="left">
+ <m:semantics>
   <m:mrow>
    <m:msubsup>
     <m:mrow>
@@ -52,26 +53,30 @@
      <m:mn>2</m:mn><m:mo>−</m:mo>
     </m:mrow>
    </m:msubsup>
-
+   
   </m:mrow>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaabcfacaqGpbWaa0baaSqaaiaaisdaaeaacaaIYaGaeyOeI0caaaaa@3AF7@</m:annotation>
+ </m:semantics>
 </m:math>
  so that its blood level drops, allowing Ca<sup>++</sup> levels to rise. PTH also stimulates the renal conversion of calcidiol into calcitriol, the active form of vitamin D. Calcitriol then stimulates the intestines to absorb more Ca<sup>++</sup> from the diet.</para></section>
 <section id="fs-id2492957">
 <title>Regulation of H<sup>+</sup>, Bicarbonate, and pH</title>
-<para id="fs-id2016656">The acid–base homeostasis of the body is a function of chemical buffers and physiologic buffering provided by the lungs and kidneys. Buffers, especially proteins, <m:math>
-   <m:msup>
+<para id="fs-id2016656">The acid–base homeostasis of the body is a function of chemical buffers and physiologic buffering provided by the lungs and kidneys. Buffers, especially proteins, <m:math display="left">
+ <m:semantics>
   <m:mrow>
-   <m:msub>
+   <m:msubsup>
     <m:mrow>
      <m:mtext>HCO</m:mtext>
     </m:mrow>
     <m:mn>3</m:mn>
-  </m:msub>
+    <m:mrow>
+     <m:mn>2</m:mn><m:mo>−</m:mo>
     </m:mrow>
-  <m:mrow>
-   <m:mo>−</m:mo>
+   </m:msubsup>
+   
   </m:mrow>
-</m:msup>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaaboeacaqGpbWaa0baaSqaaiaaiodaaeaacaaIYaGaeyOeI0caaaaa@3AE9@</m:annotation>
+ </m:semantics>
 </m:math>, and ammonia have a very large capacity to absorb or release H<sup>+</sup> as needed to resist a change in pH. They can act within fractions of a second. The lungs can rid the body of excess acid very rapidly (seconds to minutes) through the conversion of HCO<sub>3</sub><sup>–</sup> into CO<sub>2</sub>, which is then exhaled. It is rapid but has limited capacity in the face of a significant acid challenge. The kidneys can rid the body of both acid and base. The renal capacity is large but slow (minutes to hours). The cells of the PCT actively secrete H<sup>+</sup> into the forming urine as Na<sup>+</sup> is reabsorbed. The body rids itself of excess H<sup>+</sup> and raises blood pH. In the collecting ducts, the apical surfaces of intercalated cells have proton pumps that actively secrete H<sup>+</sup> into the luminal, forming urine to remove it from the body.</para><para id="fs-id2267433">As hydrogen ions are pumped into the forming urine, it is buffered by bicarbonate (HCO<sub>3</sub><sup>–</sup>), H<sub>2</sub>PO<sub>4</sub><sup>– </sup>(dihydrogen phosphate ion), or ammonia (forming NH<sub>4</sub><sup>+</sup>, ammonium ion). Urine pH typically varies in a normal range from 4.5 to 8.0.</para>
 </section>
 <section id="fs-id1700104">
@@ -86,7 +91,8 @@
 </section>
 <section id="fs-id1617311" class="summary">
 <title>Chapter Review</title>
-<para id="fs-id2471150">The major hormones regulating body fluids are ADH, aldosterone and ANH. Progesterone is similar in structure to aldosterone and can bind to and weakly stimulate aldosterone receptors, providing a similar but diminished response. Blood pressure is a reflection of blood volume and is monitored by baroreceptors in the aortic arch and carotid sinuses. When blood pressure increases, more action potentials are sent to the central nervous system, resulting in greater vasodilation, greater GFR, and more water lost in the urine. ANH is released by the cardiomyocytes when blood pressure increases, causing Na<sup>+</sup> and water loss. ADH at high levels causes vasoconstriction in addition to its action on the collecting ducts to recover more water. Diuretics increase urine volume. Mechanisms for controlling Na<sup>+</sup> concentration in the blood include the renin–angiotensin–aldosterone system and ADH. When Na<sup>+</sup> is retained, K<sup>+</sup> is excreted; when Na<sup>+</sup> is lost, K<sup>+</sup> is retained. When circulating Ca<sup>++</sup> decreases, PTH stimulates the reabsorption of Ca<sup>++</sup> and inhibits reabsorption of <m:math>
+<para id="fs-id2471150">The major hormones regulating body fluids are ADH, aldosterone and ANH. Progesterone is similar in structure to aldosterone and can bind to and weakly stimulate aldosterone receptors, providing a similar but diminished response. Blood pressure is a reflection of blood volume and is monitored by baroreceptors in the aortic arch and carotid sinuses. When blood pressure increases, more action potentials are sent to the central nervous system, resulting in greater vasodilation, greater GFR, and more water lost in the urine. ANH is released by the cardiomyocytes when blood pressure increases, causing Na<sup>+</sup> and water loss. ADH at high levels causes vasoconstriction in addition to its action on the collecting ducts to recover more water. Diuretics increase urine volume. Mechanisms for controlling Na<sup>+</sup> concentration in the blood include the renin–angiotensin–aldosterone system and ADH. When Na<sup>+</sup> is retained, K<sup>+</sup> is excreted; when Na<sup>+</sup> is lost, K<sup>+</sup> is retained. When circulating Ca<sup>++</sup> decreases, PTH stimulates the reabsorption of Ca<sup>++</sup> and inhibits reabsorption of <m:math display="left">
+ <m:semantics>
   <m:mrow>
    <m:msubsup>
     <m:mrow>
@@ -97,8 +103,10 @@
      <m:mn>2</m:mn><m:mo>−</m:mo>
     </m:mrow>
    </m:msubsup>
-
+   
   </m:mrow>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaabcfacaqGpbWaa0baaSqaaiaaisdaaeaacaaIYaGaeyOeI0caaaaa@3AF7@</m:annotation>
+ </m:semantics>
 </m:math>. pH is regulated through buffers, expiration of CO<sub>2</sub>, and excretion of acid or base by the kidneys. The breakdown of amino acids produces ammonia. Most ammonia is converted into less-toxic urea in the liver and excreted in the urine. Regulation of drugs is by glomerular filtration, tubular secretion, and tubular reabsorption.</para></section>
 <section id="fs-id2299792" class="multiple-choice">
 <title>Review Questions</title>
@@ -160,7 +168,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2363423"><term>diuretic</term> <meaning id="fs-id1883238">compound that increases urine output, leading to decreased water conservation</meaning></definition>
 </glossary>
