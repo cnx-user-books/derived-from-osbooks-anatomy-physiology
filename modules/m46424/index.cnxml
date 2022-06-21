@@ -1,11 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
 
-<title>Endocrine Regulation of Kidney Function </title>
+<title>Endocrine Regulation of Kidney Function</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46424</md:content-id>
-  <md:title>Endocrine Regulation of Kidney Function </md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-<list id="list-00001">
+  <md:title>Endocrine Regulation of Kidney Function</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Describe how each of the following functions in the extrinsic control of GFR: renin–angiotensin mechanism, natriuretic peptides, and sympathetic adrenergic activity</item>
 <item>Describe how each of the following works to regulate reabsorption and secretion, so as to affect urine volume and composition: renin–angiotensin system, aldosterone, antidiuretic hormone, and natriuretic peptides</item>
 <item>Name and define the roles of other hormones that regulate kidney control</item>
@@ -17,10 +17,10 @@
 <para id="fs-id2198084">Several hormones have specific, important roles in regulating kidney function. They act to stimulate or inhibit blood flow. Some of these are endocrine, acting from a distance, whereas others are paracrine, acting locally.</para>
 <section id="fs-id2459453">
 <title>Renin–Angiotensin–Aldosterone</title>
-<para id="fs-id2918187">Renin is an enzyme that is produced by the juxtaglomerular (JG) cells of the afferent arteriole at the JGA. It enzymatically converts angiotensinogen (made by the liver, freely circulating) into angiotensin I. Its release is stimulated by prostaglandins and NO from the JGA in response to decreased extracellular fluid volume.</para>
+<para id="fs-id2918187">Renin is an enzyme that is produced by the granular cells of the afferent arteriole at the JGA. It enzymatically converts angiotensinogen (made by the liver, freely circulating) into angiotensin I. Its release is stimulated by prostaglandins and NO from the JGA in response to decreased extracellular fluid volume.</para>
 <para id="fs-id2582099">ACE is not a hormone but it is functionally important in regulating systemic blood pressure and kidney function. It is produced in the lungs but binds to the surfaces of endothelial cells in the afferent arterioles and glomerulus. It enzymatically converts inactive angiotensin I into active angiotensin II. ACE is important in raising blood pressure. People with high blood pressure are sometimes prescribed ACE inhibitors to lower their blood pressure.</para>
 <para id="fs-id1260018">Angiotensin II is a potent vasoconstrictor that plays an immediate role in the regulation of blood pressure. It acts systemically to cause vasoconstriction as well as constriction of both the afferent and efferent arterioles of the glomerulus. In instances of blood loss or dehydration, it reduces both GFR and renal blood flow, thereby limiting fluid loss and preserving blood volume. Its release is usually stimulated by decreases in blood pressure, and so the preservation of adequate blood pressure is its primary role.</para>
-<para id="fs-id2578078">Aldosterone, often called the “salt-retaining hormone,” is released from the adrenal cortex in response to angiotensin II or directly in response to increased plasma K<sup>+</sup>. It promotes Na<sup>+</sup> reabsorption by the nephron, promoting the retention of water. It is also important in regulating K<sup>+</sup>,<sup> </sup>promoting its excretion. (This dual effect on two minerals and its origin in the adrenal cortex explains its designation as a mineralocorticoid.) As a result, renin has an immediate effect on blood pressure due to angiotensin II–stimulated vasoconstriction and a prolonged effect through Na<sup>+</sup> recovery due to aldosterone. At the same time that aldosterone causes increased recovery of Na<sup>+</sup>, it also causes greater loss of K<sup>+</sup>. Progesterone is a steroid that is structurally similar to aldosterone. It binds to the aldosterone receptor and weakly stimulates Na<sup>+</sup> reabsorption and increased water recovery. This process is unimportant in males due to low levels of circulating progesterone. It may cause increased retention of water during some periods of the menstrual cycle in females when progesterone levels increase.</para>
+<para id="fs-id2578078">Aldosterone, often called the “salt-retaining hormone,” is released from the adrenal cortex in response to angiotensin II or directly in response to increased plasma K<sup>+</sup>. It promotes Na<sup>+</sup> reabsorption by the nephron, promoting the retention of water. It is also important in regulating K<sup>+</sup>,<sup> </sup>promoting its excretion. (This dual effect on two minerals and its origin in the adrenal cortex explains its designation as a mineralocorticoid.) As a result, renin has an immediate effect on blood pressure due to angiotensin II–stimulated vasoconstriction and a prolonged effect through Na<sup>+</sup> recovery due to aldosterone. At the same time that aldosterone causes increased recovery of Na<sup>+</sup>, it also causes greater loss of K<sup>+</sup>. Progesterone is a steroid that is structurally similar to aldosterone. It binds to the aldosterone receptor and weakly stimulates Na<sup>+</sup> reabsorption and increased water recovery. This process is unimportant in men due to low levels of circulating progesterone. It may cause increased retention of water during some periods of the menstrual cycle in women when progesterone levels increase.</para>
 </section>
 <section id="fs-id2587912">
 <title>Antidiuretic Hormone (ADH)</title>
@@ -28,7 +28,7 @@
 </section>
 <section id="fs-id2288002">
 <title>Endothelin</title>
-<para id="fs-id1841833"><term id="term-00001">Endothelins</term>, 21-amino acid peptides, are extremely powerful vasoconstrictors. They are produced by endothelial cells of the renal blood vessels, mesangial cells, and cells of the DCT. Hormones stimulating endothelin release include angiotensin II, bradykinin, and epinephrine. They do not typically influence blood pressure in healthy people. On the other hand, in people with diabetic kidney disease, endothelin is chronically elevated, resulting in sodium retention. They also diminish GFR by damaging the podocytes and by potently vasoconstricting both the afferent and efferent arterioles.</para>
+<para id="fs-id1841833"><term>Endothelins</term>, 21-amino acid peptides, are extremely powerful vasoconstrictors. They are produced by endothelial cells of the renal blood vessels, mesangial cells, and cells of the DCT. Hormones stimulating endothelin release include angiotensin II, bradykinin, and epinephrine. They do not typically influence blood pressure in healthy people. On the other hand, in people with diabetic kidney disease, endothelin is chronically elevated, resulting in sodium retention. They also diminish GFR by damaging the podocytes and by potently vasoconstricting both the afferent and efferent arterioles.</para>
 </section>
 <section id="fs-id2019825">
 <title>Natriuretic Hormones</title>
@@ -104,7 +104,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id2289260"><term>endothelins</term> <meaning id="fs-id1372298">group of vasoconstrictive, 21-amino acid peptides; produced by endothelial cells of the renal blood vessels, mesangial cells, and cells of the DCT</meaning></definition>
 </glossary>
