@@ -1,11 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>Tubular Reabsorption </title>
+<title>Tubular Reabsorption</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46443</md:content-id>
-  <md:title>Tubular Reabsorption </md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-<list id="list-00001">
+  <md:title>Tubular Reabsorption</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>List specific transport mechanisms occurring in different parts of the nephron, including active transport, osmosis, facilitated diffusion, and passive electrochemical gradients</item>
 <item>List the different membrane proteins of the nephron, including channels, transporters, and ATPase pumps</item>
 <item>Compare and contrast passive and active tubular reabsorption</item>
@@ -106,7 +106,7 @@
 <entry>Variable amounts reabsorbed, controlled by ADH, osmosis</entry>
 </row>
 <row>
-<entry>HCO<sub>3</sub><sup>-</sup></entry>
+<entry>Bicarbonate</entry>
 <entry>80–90 percent symport reabsorption with Na<sup>+</sup></entry>
 <entry>Reabsorbed, symport with Na<sup>+</sup> and antiport with Cl<sup>–</sup>; in ascending limb</entry>
 <entry/>
@@ -125,6 +125,13 @@
 <entry/>
 <entry>Secreted; diffusion</entry>
 <entry>Secreted; diffusion</entry>
+</row>
+<row>
+<entry>HCO<sub>3</sub><sup>–</sup></entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed; diffusion in ascending limb</entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed; antiport with Na<sup>+</sup></entry>
 </row>
 <row>
 <entry>Some drugs</entry>
@@ -260,7 +267,8 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
 <figure id="fig-ch26_06_02"><title>Substances Reabsorbed and Secreted by the PCT </title><media id="fs-id1526459" alt="This diagram shows the different substances that are secreted and reabsorbed by the proximal collecting tubule. Arrows show the direction of the movement of the substance.">
 <image mime-type="image/jpg" src="../../media/2619_Substances_Reabsorbed_And_Secreted_By_The_PCT.jpg" width="535"/>
 </media>
-</figure><para id="fs-id2360633">More substances move across the membranes of the PCT than any other portion of the nephron. Many of these substances (amino acids and glucose) use symport mechanisms for transport along with Na<sup>+</sup>. Antiport, active transport, diffusion, and facilitated diffusion are additional mechanisms by which substances are moved from one side of a membrane to the other. Recall that cells have two surfaces: apical and basal. The apical surface is the one facing the lumen or open space of a cavity or tube, in this case, the inside of the PCT. The basal surface of the cell faces the connective tissue base to which the cell attaches (basement membrane) or the cell membrane closer to the basement membrane if there is a stratified layer of cells. In the PCT, there is a single layer of simple cuboidal endothelial cells against the basement membrane. The numbers and particular types of pumps and channels vary between the apical and basilar surfaces. A few of the substances that are transported with Na<sup>+</sup> (symport mechanism) on the apical membrane include Cl<sup>–</sup>, Ca<sup>++</sup>, amino acids, glucose, and <m:math>
+</figure><para id="fs-id2360633">More substances move across the membranes of the PCT than any other portion of the nephron. Many of these substances (amino acids and glucose) use symport mechanisms for transport along with Na<sup>+</sup>. Antiport, active transport, diffusion, and facilitated diffusion are additional mechanisms by which substances are moved from one side of a membrane to the other. Recall that cells have two surfaces: apical and basal. The apical surface is the one facing the lumen or open space of a cavity or tube, in this case, the inside of the PCT. The basal surface of the cell faces the connective tissue base to which the cell attaches (basement membrane) or the cell membrane closer to the basement membrane if there is a stratified layer of cells. In the PCT, there is a single layer of simple cuboidal endothelial cells against the basement membrane. The numbers and particular types of pumps and channels vary between the apical and basilar surfaces. A few of the substances that are transported with Na<sup>+</sup> (symport mechanism) on the apical membrane include Cl<sup>–</sup>, Ca<sup>++</sup>, amino acids, glucose, and <m:math display="left">
+ <m:semantics>
   <m:mrow>
    <m:msubsup>
     <m:mrow>
@@ -272,7 +280,9 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
     </m:mrow>
    </m:msubsup>
      </m:mrow>
-</m:math>. Sodium is actively exchanged for K<sup>+</sup> using ATP on the basal membrane. Most of the substances transported by a symport mechanism on the apical membrane are transported by facilitated diffusion on the basal membrane. At least three ions, K<sup>+</sup>, Ca<sup>++</sup>, and Mg<sup>++</sup>, diffuse laterally between adjacent cell membranes (transcellular).</para><para id="fs-id1165447767788">About 67 percent of the water, Na<sup>+</sup>, and K<sup>+</sup> entering the nephron is reabsorbed in the PCT and returned to the circulation. Almost 100 percent of glucose, amino acids, and other organic substances such as vitamins are normally recovered here. Some glucose may appear in the urine if circulating glucose levels are high enough that all the glucose transporters in the PCT are saturated, so that their capacity to move glucose is exceeded (transport maximum, or T<sub>m</sub>). In males, the maximum amount of glucose that can be recovered is about 375 mg/min, whereas in females, it is about 300 mg/min. This recovery rate translates to an arterial concentration of about 200 mg/dL. Though an exceptionally high sugar intake might cause sugar to appear briefly in the urine, the appearance of <term id="term-00001">glycosuria</term> usually points to type I or II diabetes mellitus. The transport of glucose from the lumen of the PCT to the interstitial space is similar to the way it is absorbed by the small intestine. Both glucose and Na<sup>+</sup> bind simultaneously to the same symport proteins on the apical surface of the cell to be transported in the same direction, toward the interstitial space. Sodium moves down its electrochemical and concentration gradient into the cell and takes glucose with it. Na<sup>+</sup> is then actively pumped out of the cell at the basal surface of the cell into the interstitial space. Glucose leaves the cell to enter the interstitial space by facilitated diffusion. The energy to move glucose comes from the Na<sup>+</sup>/K<sup>+</sup> ATPase that pumps Na<sup>+</sup> out of the cell on the basal surface. Fifty percent of Cl<sup>– </sup>and variable quantities of Ca<sup>++</sup>, Mg<sup>++</sup>, and <m:math>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeiuaiaab+eadaqhaaWcbaGaaGinaaqaaiaaiodacqGHsislaaaaaa@3A2D@</m:annotation> </m:semantics>
+</m:math>. Sodium is actively exchanged for K<sup>+</sup> using ATP on the basal membrane. Most of the substances transported by a symport mechanism on the apical membrane are transported by facilitated diffusion on the basal membrane. At least three ions, K<sup>+</sup>, Ca<sup>++</sup>, and Mg<sup>++</sup>, diffuse laterally between adjacent cell membranes (transcellular).</para><para id="fs-id1165447767788">About 67 percent of the water, Na<sup>+</sup>, and K<sup>+</sup> entering the nephron is reabsorbed in the PCT and returned to the circulation. Almost 100 percent of glucose, amino acids, and other organic substances such as vitamins are normally recovered here. Some glucose may appear in the urine if circulating glucose levels are high enough that all the glucose transporters in the PCT are saturated, so that their capacity to move glucose is exceeded (transport maximum, or T<sub>m</sub>). In men, the maximum amount of glucose that can be recovered is about 375 mg/min, whereas in women, it is about 300 mg/min. This recovery rate translates to an arterial concentration of about 200 mg/dL. Though an exceptionally high sugar intake might cause sugar to appear briefly in the urine, the appearance of <term>glycosuria</term> usually points to type I or II diabetes mellitus. The transport of glucose from the lumen of the PCT to the interstitial space is similar to the way it is absorbed by the small intestine. Both glucose and Na<sup>+</sup> bind simultaneously to the same symport proteins on the apical surface of the cell to be transported in the same direction, toward the interstitial space. Sodium moves down its electrochemical and concentration gradient into the cell and takes glucose with it. Na<sup>+</sup> is then actively pumped out of the cell at the basal surface of the cell into the interstitial space. Glucose leaves the cell to enter the interstitial space by facilitated diffusion. The energy to move glucose comes from the Na<sup>+</sup>/K<sup>+</sup> ATPase that pumps Na<sup>+</sup> out of the cell on the basal surface. Fifty percent of Cl<sup>– </sup>and variable quantities of Ca<sup>++</sup>, Mg<sup>++</sup>, and <m:math display="left">
+ <m:semantics>
   <m:mrow>
    <m:msubsup>
     <m:mrow>
@@ -285,25 +295,21 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
    </m:msubsup>
 
   </m:mrow>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaabcfacaqGpbWaa0baaSqaaiaaisdaaeaacaaIYaGaeyOeI0caaaaa@3AF7@</m:annotation>
+ </m:semantics>
 </m:math>
  are also recovered in the PCT.</para><para id="fs-id1165447771491">Recovery of bicarbonate (HCO<sub>3</sub><sup>–</sup>) is vital to the maintenance of acid–base balance, since it is a very powerful and fast-acting buffer. An important enzyme is used to catalyze this mechanism: carbonic anhydrase (CA). This same enzyme and reaction is used in red blood cells in the transportation of CO<sub>2</sub>, in the stomach to produce hydrochloric acid, and in the pancreas to produce HCO<sub>3</sub><sup>–</sup> to buffer acidic chyme from the stomach. In the kidney, most of the CA is located within the cell, but a small amount is bound to the brush border of the membrane on the apical surface of the cell. In the lumen of the PCT, HCO<sub>3</sub><sup>–</sup> combines with hydrogen ions to form carbonic acid (H<sub>2</sub>CO<sub>3</sub>). This is enzymatically catalyzed into CO<sub>2</sub> and water, which diffuse across the apical membrane into the cell. Water can move osmotically across the lipid bilayer membrane due to the presence of aquaporin water channels. Inside the cell, the reverse reaction occurs to produce bicarbonate ions (HCO<sub>3</sub><sup>–</sup>). These bicarbonate ions are cotransported with Na<sup>+</sup> across the basal membrane to the interstitial space around the PCT (<link target-id="fig-ch26_06_03" document=""/>). At the same time this is occurring, a Na<sup>+</sup>/H<sup>+</sup> antiporter excretes H<sup>+</sup> into the lumen, while it recovers Na<sup>+</sup>. Note how the hydrogen ion is recycled so that bicarbonate can be recovered. Also, note that a Na<sup>+</sup> gradient is created by the Na<sup>+</sup>/K<sup>+</sup> pump.</para>
 <equation id="eip-121"><m:math display="block">
+ <m:semantics>
   <m:mrow>
-    <m:msup>
-    <m:mrow>
    <m:msub>
     <m:mrow>
      <m:mtext>HCO</m:mtext>
     </m:mrow>
     <m:mrow>
-     <m:mn>3</m:mn>
+     <m:mn>3</m:mn><m:mo>−</m:mo>
     </m:mrow>
    </m:msub>
- </m:mrow>
-   <m:mrow>
-     <m:mo>−</m:mo>
-   </m:mrow>
- </m:msup>
    <m:msup>
     <m:mrow>
      <m:mtext>+ H</m:mtext>
@@ -334,6 +340,8 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
    </m:msub>
    <m:mtext>O</m:mtext>
   </m:mrow>
+  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaaboeacaqGpbWaaSbaaSqaaiaaiodacqGHsislaeqaaOGaae4kaiaabccacaqGibWaaWbaaSqabeaacaqGRaaaaOGaeyiLHSQaaeisamaaBaaaleaacaqGYaaabeaakiaaboeacaqGpbWaaSbaaSqaaiaabodaaeqaaOGaeyiLHSQaae4qaiaab+eadaWgaaWcbaGaaeOmaaqabaGccaqGGaGaae4kaiaabccacaqGibWaaSbaaSqaaiaabkdaaeqaaOGaae4taaaa@4C48@</m:annotation>
+ </m:semantics>
 </m:math>
 </equation><para id="fs-id1165447765158">The significant recovery of solutes from the PCT lumen to the interstitial space creates an osmotic gradient that promotes water recovery. As noted before, water moves through channels created by the aquaporin proteins. These proteins are found in all cells in varying amounts and help regulate water movement across membranes and through cells by creating a passageway across the hydrophobic lipid bilayer membrane. Changing the number of aquaporin proteins in membranes of the collecting ducts also helps to regulate the osmolarity of the blood. The movement of many positively charged ions also creates an electrochemical gradient. This charge promotes the movement of negative ions toward the interstitial spaces and the movement of positive ions toward the lumen.</para>
 <figure id="fig-ch26_06_03"><title>Reabsorption of Bicarbonate from the PCT </title><media id="fs-id1165447815579" alt="This diagram shows the process of reabsorption of bicarbonate by the proximal collecting tubule.">
@@ -344,16 +352,16 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
 <para id="fs-id1165447770641">The loop of Henle consists of two sections: thick and thin descending and thin and thick ascending sections. The loops of cortical nephrons do not extend into the renal medulla very far, if at all. Juxtamedullary nephrons have loops that extend variable distances, some very deep into the medulla. The descending and ascending portions of the loop are highly specialized to enable recovery of much of the Na<sup>+</sup> and water that were filtered by the glomerulus. As the forming urine moves through the loop, the osmolarity will change from isosmotic with blood (about 278–300 mOsmol/kg) to both a very hypertonic solution of about 1200 mOsmol/kg and a very hypotonic solution of about 100 mOsmol/kg. These changes are accomplished by osmosis in the descending limb and active transport in the ascending limb. Solutes and water recovered from these loops are returned to the circulation by way of the vasa recta.</para>
 <section id="fs-id1165447772202">
 <title>Descending Loop</title>
-<para id="fs-id1165447764851">The majority of the descending loop is comprised of simple squamous epithelial cells; to simplify the function of the loop, this discussion focuses on these cells. These membranes have permanent aquaporin channel proteins that allow unrestricted movement of water from the descending loop into the surrounding interstitium as osmolarity increases from about 300 mOsmol/kg to about 1200 mOsmol/kg in the filtrate. This increase results in reabsorption of up to 15 percent of the water entering the nephron. Modest amounts of urea, Na<sup>+</sup>, and other ions are also recovered here.</para>
+<para id="fs-id1165447764851">The majority of the descending loop is comprised of simple squamous epithelial cells; to simplify the function of the loop, this discussion focuses on these cells. These membranes have permanent aquaporin channel proteins that allow unrestricted movement of water from the descending loop into the surrounding interstitium as osmolarity increases from about 300 mOsmol/kg to about 1200 mOsmol/kg. This increase results in reabsorption of up to 15 percent of the water entering the nephron. Modest amounts of urea, Na<sup>+</sup>, and other ions are also recovered here.</para>
 <para id="fs-id1165447771396">Most of the solutes that were filtered in the glomerulus have now been recovered along with a majority of water, about 82 percent. As the forming urine enters the ascending loop, major adjustments will be made to the concentration of solutes to create what you perceive as urine.</para>
 </section>
 <section id="fs-id1165447765824">
 <title>Ascending Loop</title>
-<para id="fs-id1165447771180">The ascending loop is made of very short thin and longer thick portions. Once again, to simplify the function, this section only considers the thick portion. The thick portion is lined with simple cuboidal epithelium without a brush border. It is completely impermeable to water due to the absence of aquaporin proteins, but ions, mainly Na<sup>+</sup> and CL<sup>–</sup>, are actively reabsorbed by a cotransport system. This has two significant effects: Removal of NaCl while retaining water leads to a hypoosomotic filtrate by the time it reaches the DCT; pumping NaCl into the interstitial space contributes to the hyperosmotic environment in the kidney medulla.</para><para id="fs-id1165447849252">The Na<sup>+/</sup>K<sup>+</sup> ATPase pumps in the basal membrane create an electrochemical gradient, allowing reabsorption of Cl<sup>–</sup> by Na<sup>+</sup>/Cl<sup>–</sup> symporters in the apical membrane. At the same time that Na<sup>+</sup> is actively pumped from the basal side of the cell into the interstitial fluid, Cl<sup>–</sup> follows the Na<sup>+ </sup>from the lumen<sup> </sup>into the interstitial fluid by a paracellular route between cells through <term id="term-00002">leaky tight junctions</term>. These are found between cells of the ascending loop, where they allow certain solutes to move according to their concentration gradient. Most of the K<sup>+</sup> that enters the cell via symporters returns to the lumen (down its concentration gradient) through leaky channels in the apical membrane. Note the environment now created in the interstitial space: With the “back door exiting” K<sup>+</sup>, there is one Na<sup>+</sup> and two Cl<sup>– </sup>ions left in the interstitium surrounding the ascending loop. Therefore, in comparison to the lumen of the loop, the interstitial space is now a negatively charged environment. This negative charge attracts cations (Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>++</sup>, and Mg<sup>++</sup>) from the lumen via a paracellular route to the interstitial space and vasa recta.</para>
+<para id="fs-id1165447771180">The ascending loop is made of very short thin and longer thick portions. Once again, to simplify the function, this section only considers the thick portion. The thick portion is lined with simple cuboidal epithelium without a brush border. It is completely impermeable to water due to the absence of aquaporin proteins, but ions, mainly Na<sup>+</sup> and CL<sup>–</sup>, are actively reabsorbed by a cotransport system. This has two significant effects: Removal of NaCl while retaining water leads to a hypoosomotic filtrate by the time it reaches the DCT; pumping NaCl into the interstitial space contributes to the hyperosmotic environment in the kidney medulla.</para><para id="fs-id1165447849252">The Na<sup>+/</sup>K<sup>+</sup> ATPase pumps in the basal membrane create an electrochemical gradient, allowing reabsorption of Cl<sup>–</sup> by Na<sup>+</sup>/Cl<sup>–</sup> symporters in the apical membrane. At the same time that Na<sup>+</sup> is actively pumped from the basal side of the cell into the interstitial fluid, Cl<sup>–</sup> follows the Na<sup>+ </sup>from the lumen<sup> </sup>into the interstitial fluid by a paracellular route between cells through <term>leaky tight junctions</term>. These are found between cells of the ascending loop, where they allow certain solutes to move according to their concentration gradient. Most of the K<sup>+</sup> that enters the cell via symporters returns to the lumen (down its concentration gradient) through leaky channels in the apical membrane. Note the environment now created in the interstitial space: With the “back door exiting” K<sup>+</sup>, there is one Na<sup>+</sup> and two Cl<sup>– </sup>ions left in the interstitium surrounding the ascending loop. Therefore, in comparison to the lumen of the loop, the interstitial space is now a negatively charged environment. This negative charge attracts cations (Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>++</sup>, and Mg<sup>++</sup>) from the lumen via a paracellular route to the interstitial space and vasa recta.</para>
 </section>
 <section id="fs-id1165447782919">
 <title>Countercurrent Multiplier System</title>
-<para id="fs-id1165447777648">The structure of the loop of Henle and associated vasa recta create a <term id="term-00003">countercurrent multiplier system</term> (<link target-id="fig-ch26_06_04" document=""/>). The countercurrent term comes from the fact that the descending and ascending loops are next to each other and their fluid flows in opposite directions (countercurrent). The multiplier term is due to the action of solute pumps that increase (multiply) the concentrations of urea and Na<sup>+</sup> deep in the medulla.</para>
+<para id="fs-id1165447777648">The structure of the loop of Henle and associated vasa recta create a <term>countercurrent multiplier system</term> (<link target-id="fig-ch26_06_04" document=""/>). The countercurrent term comes from the fact that the descending and ascending loops are next to each other and their fluid flows in opposite directions (countercurrent). The multiplier term is due to the action of solute pumps that increase (multiply) the concentrations of urea and Na<sup>+</sup> deep in the medulla.</para>
 <figure id="fig-ch26_06_04"><title>Countercurrent Multiplier System </title><media id="fs-id1165447814826" alt="The left panel of this image shows the location of the loop of Henle. The right panel shows the interstitial osmolality and the exchange of sodium and chloride ions, as well as water and urea.">
 <image mime-type="image/jpg" src="../../media/2621_Loop_of_Henle_Countercurrent_Multiplier_System.jpg" width="450"/>
 </media>
@@ -371,7 +379,7 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
 </section>
 <section id="fs-id1165447860538">
 <title>Collecting Ducts and Recovery of Water</title>
-<para id="fs-id1165447770138">Solutes move across the membranes of the collecting ducts, which contain two distinct cell types, principal cells and intercalated cells. A <term id="term-00004">principal cell</term> possesses channels for the recovery or loss of sodium and potassium. An <term id="term-00005">intercalated cell</term> secretes or absorbs acid or bicarbonate. As in other portions of the nephron, there is an array of micromachines (pumps and channels) on display in the membranes of these cells.</para>
+<para id="fs-id1165447770138">Solutes move across the membranes of the collecting ducts, which contain two distinct cell types, principal cells and intercalated cells. A <term>principal cell</term> possesses channels for the recovery or loss of sodium and potassium. An <term>intercalated cell</term> secretes or absorbs acid or bicarbonate. As in other portions of the nephron, there is an array of micromachines (pumps and channels) on display in the membranes of these cells.</para>
 <para id="fs-id1165447765436">Regulation of urine volume and osmolarity are major functions of the collecting ducts. By varying the amount of water that is recovered, the collecting ducts play a major role in maintaining the body’s normal osmolarity. If the blood becomes hyperosmotic, the collecting ducts recover more water to dilute the blood; if the blood becomes hyposmotic, the collecting ducts recover less of the water, leading to concentration of the blood. Another way of saying this is: If plasma osmolarity rises, more water is recovered and urine volume decreases; if plasma osmolarity decreases, less water is recovered and urine volume increases. This function is regulated by the posterior pituitary hormone ADH (vasopressin). With mild dehydration, plasma osmolarity rises slightly. This increase is detected by osmoreceptors in the hypothalamus, which stimulates the release of ADH from the posterior pituitary. If plasma osmolarity decreases slightly, the opposite occurs.</para>
 <para id="fs-id1165447765439">When stimulated by ADH, aquaporin channels are inserted into the apical membrane of principal cells, which line the collecting ducts. As the ducts descend through the medulla, the osmolarity surrounding them increases (due to the countercurrent mechanisms described above). If aquaporin water channels are present, water will be osmotically pulled from the collecting duct into the surrounding interstitial space and into the peritubular capillaries. Therefore, the final urine will be more concentrated. If less ADH is secreted, fewer aquaporin channels are inserted and less water is recovered, resulting in dilute urine. By altering the number of aquaporin channels, the volume of water recovered or lost is altered. This, in turn, regulates the blood osmolarity, blood pressure, and osmolarity of the urine.</para>
 <para id="fs-id1165447830290">As Na<sup>+</sup> is pumped from the forming urine, water is passively recaptured for the circulation; this preservation of vascular volume is critically important for the maintenance of a normal blood pressure. Aldosterone is secreted by the adrenal cortex in response to angiotensin II stimulation. As an extremely potent vasoconstrictor, angiotensin II functions immediately to increase blood pressure. By also stimulating aldosterone production, it provides a longer-lasting mechanism to support blood pressure by maintaining vascular volume (water recovery).</para>
@@ -442,7 +450,7 @@ Na<sup>+</sup>/K<sup>+</sup> ATPases on the basal membrane of a tubular cell con
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165447849205"><term>countercurrent multiplier system</term> <meaning id="fs-id1165447849209">involves the descending and ascending loops of Henle directing forming urine in opposing directions to create a concentration gradient when combined with variable permeability and sodium pumping</meaning></definition>
 <definition id="fs-id1165447837707"><term>glycosuria</term> <meaning id="fs-id1165447837711">presence of glucose in the urine; caused by high blood glucose levels that exceed the ability of the kidneys to reabsorb the glucose; usually the result of untreated or poorly controlled diabetes mellitus</meaning></definition>
