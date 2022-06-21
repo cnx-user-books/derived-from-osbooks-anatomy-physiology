@@ -1,0 +1,218 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col24855</md:content-id>
+  <md:title>Background A&amp;P for Clinical Medicine: Neurology</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>f5f8d05d-4112-4dad-9f69-64f24db0f6cd</md:uuid>
+<md:slug>background-a-p-for-clinical-medicine-neurology</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Regulation, Integration, and Control</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Nervous System and Nervous Tissue</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m46500"/>
+        
+      
+    
+    
+      <col:module document="m46509"/>
+        
+      
+    
+    
+      <col:module document="m46531"/>
+        
+      
+    
+    
+      <col:module document="m46526"/>
+        
+      
+    
+    
+      <col:module document="m46503"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Anatomy of the Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m46533"/>
+        
+      
+    
+    
+      <col:module document="m46719"/>
+        
+      
+    
+    
+      <col:module document="m46553"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Somatic Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m46561"/>
+        
+      
+    
+    
+      <col:module document="m46577"/>
+        
+      
+    
+    
+      <col:module document="m46557"/>
+        
+      
+    
+    
+      <col:module document="m46574"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Autonomic Nervous System</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m46590"/>
+        
+      
+    
+    
+      <col:module document="m46582"/>
+        
+      
+    
+    
+      <col:module document="m46579"/>
+        
+      
+    
+    
+      <col:module document="m46581"/>
+        
+      
+    
+    
+      <col:module document="m46587"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Neurological Exam</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m46594"/>
+        
+      
+    
+    
+      <col:module document="m46650"/>
+        
+      
+    
+    
+      <col:module document="m46607"/>
+        
+      
+    
+    
+      <col:module document="m46640"/>
+        
+      
+    
+    
+      <col:module document="m46604"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
