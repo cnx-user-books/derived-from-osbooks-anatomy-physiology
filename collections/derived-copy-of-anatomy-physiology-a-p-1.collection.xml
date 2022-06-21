@@ -1,0 +1,229 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11540</md:content-id>
+    <md:title>Derived Copy of Anatomy &amp; Physiology: A&amp;P 1</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1288e8e3-b25b-49e4-9b5e-3a86ac70c76e</md:uuid>
+<md:slug>derived-copy-of-anatomy-physiology-a-p-1</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46844"/>
+    <col:subcollection>
+      <md:title>Unit 1: Levels of Organization</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>An Introduction to the Human Body</md:title>
+          <col:content>
+            <col:module document="m45981"/>
+            <col:module document="m45983"/>
+            <col:module document="m45985"/>
+            <col:module document="m45986"/>
+            <col:module document="m45988"/>
+            <col:module document="m45989"/>
+            <col:module document="m45990"/>
+            <col:module document="m45991"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Chemical Level of Organization</md:title>
+          <col:content>
+            <col:module document="m45996"/>
+            <col:module document="m45998"/>
+            <col:module document="m46000"/>
+            <col:module document="m46004"/>
+            <col:module document="m46006"/>
+            <col:module document="m46008"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Cellular Level of Organization</md:title>
+          <col:content>
+            <col:module document="m46016"/>
+            <col:module document="m46021"/>
+            <col:module document="m46023"/>
+            <col:module document="m46073"/>
+            <col:module document="m46032"/>
+            <col:module document="m46034"/>
+            <col:module document="m46036"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Tissue Level of Organization</md:title>
+          <col:content>
+            <col:module document="m46045"/>
+            <col:module document="m46046"/>
+            <col:module document="m46048"/>
+            <col:module document="m46049"/>
+            <col:module document="m46055"/>
+            <col:module document="m46057"/>
+            <col:module document="m46058"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 2: Support and Movement</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Integumentary System</md:title>
+          <col:content>
+            <col:module document="m46059"/>
+            <col:module document="m46060"/>
+            <col:module document="m46062"/>
+            <col:module document="m46064"/>
+            <col:module document="m46066"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Bone Tissue and the Skeletal System</md:title>
+          <col:content>
+            <col:module document="m46290"/>
+            <col:module document="m46341"/>
+            <col:module document="m46282"/>
+            <col:module document="m46281"/>
+            <col:module document="m46301"/>
+            <col:module document="m46342"/>
+            <col:module document="m46305"/>
+            <col:module document="m46295"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Axial Skeleton</md:title>
+          <col:content>
+            <col:module document="m46347"/>
+            <col:module document="m46344"/>
+            <col:module document="m46355"/>
+            <col:module document="m46352"/>
+            <col:module document="m46350"/>
+            <col:module document="m46348"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Appendicular Skeleton</md:title>
+          <col:content>
+            <col:module document="m46370"/>
+            <col:module document="m46374"/>
+            <col:module document="m46368"/>
+            <col:module document="m46375"/>
+            <col:module document="m46364"/>
+            <col:module document="m46376"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Joints</md:title>
+          <col:content>
+            <col:module document="m46402"/>
+            <col:module document="m46383"/>
+            <col:module document="m46403"/>
+            <col:module document="m46381"/>
+            <col:module document="m46394"/>
+            <col:module document="m46398"/>
+            <col:module document="m46377"/>
+            <col:module document="m46388"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Muscle Tissue</md:title>
+          <col:content>
+            <col:module document="m46450"/>
+            <col:module document="m46473"/>
+            <col:module document="m46476"/>
+            <col:module document="m46447"/>
+            <col:module document="m46470"/>
+            <col:module document="m46480"/>
+            <col:module document="m46438"/>
+            <col:module document="m46404"/>
+            <col:module document="m46478"/>
+            <col:module document="m46407"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Muscular System</md:title>
+          <col:content>
+            <col:module document="m46492"/>
+            <col:module document="m46487"/>
+            <col:module document="m46498"/>
+            <col:module document="m46484"/>
+            <col:module document="m46485"/>
+            <col:module document="m46495"/>
+            <col:module document="m46482"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 3: Regulation, Integration, and Control</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Nervous System and Nervous Tissue</md:title>
+          <col:content>
+            <col:module document="m46504"/>
+            <col:module document="m46500"/>
+            <col:module document="m46509"/>
+            <col:module document="m46531"/>
+            <col:module document="m46526"/>
+            <col:module document="m46503"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anatomy of the Nervous System</md:title>
+          <col:content>
+            <col:module document="m46528"/>
+            <col:module document="m46535"/>
+            <col:module document="m46533"/>
+            <col:module document="m46719"/>
+            <col:module document="m46553"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Brain and Cranial Nerves</md:title>
+          <col:content>
+            <col:module document="m46561"/>
+            <col:module document="m46577"/>
+            <col:module document="m46557"/>
+            <col:module document="m46574"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Autonomic Nervous System</md:title>
+          <col:content>
+            <col:module document="m46590"/>
+            <col:module document="m46582"/>
+            <col:module document="m46579"/>
+            <col:module document="m46581"/>
+            <col:module document="m46587"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Neurological Exam</md:title>
+          <col:content>
+            <col:module document="m46593"/>
+            <col:module document="m46594"/>
+            <col:module document="m46650"/>
+            <col:module document="m46607"/>
+            <col:module document="m46640"/>
+            <col:module document="m46604"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Endocrine System</md:title>
+          <col:content>
+            <col:module document="m46682"/>
+            <col:module document="m46656"/>
+            <col:module document="m46667"/>
+            <col:module document="m46699"/>
+            <col:module document="m46700"/>
+            <col:module document="m46687"/>
+            <col:module document="m46684"/>
+            <col:module document="m46693"/>
+            <col:module document="m46670"/>
+            <col:module document="m46685"/>
+            <col:module document="m46680"/>
+            <col:module document="m46658"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
