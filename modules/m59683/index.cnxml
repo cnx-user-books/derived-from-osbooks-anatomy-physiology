@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Membrane Channel Types</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m59683</md:content-id>
+  <md:title>Membrane Channel Types</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the different types of membrane channels and how they operate</item>
+</list></md:abstract>
+  <md:uuid>a0e76d60-73e3-47ee-b1ec-d9069cf2c475</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1496599">The functions of nervous system input, integration, and response depend on the functions of the neurons underlying these pathways. You will recall from the earlier chapters on <emphasis effect="italics">Forces That Move Ions and Molecules</emphasis> and <emphasis effect="italics">Intracellular Signal Transduction</emphasis> that protein channels are used to move hydrophilic and large molecules across cell membranes. In those chapters we concentrated on chemically-gated channels primarily activated by ligands, G-proteins, or ATP. However, other stimuli also are used by cells to open and close different classes of gated channels. This section reviews the chemically-gated channels and introduces some of the other modes used by cells to control channel activity.  
+
+</para><para id="eip-450">You should recall that the cell membrane is a phospholipid bilayer, so only substances that can pass directly through the hydrophobic core can diffuse through unaided. Charged particles, which are hydrophilic by definition, cannot pass through the cell membrane without assistance (<link target-id="fig-ch12_04_01" document=""/>). Transmembrane proteins, specifically channel proteins, make this possible. Several passive transport channels, as well as active transport pumps, are necessary to generate  a transmembrane potential and an action potential. The carrier protein referred to as the sodium/potassium pump, that moves sodium ions (Na<sup>+</sup>) out of a cell and potassium ions (K<sup>+</sup>) into a cell, is critical for maintaining and reestablishing ion concentrations on both sides of the neuronal membrane. However, the generation and propagation of an electrical signal relies on several other types of channels all working together.</para><para id="eip-60"><figure id="fig-ch12_04_01">   
+<title>Cell Membrane and Transmembrane Proteins</title>   
+<media id="fs-id1539784" alt="This diagram shows a cross section of a cell membrane. The cell membrane proteins are large, blocky, objects. Peripheral proteins are not embedded in the phospholipid bilayer. The peripheral protein shown here is attached to the outside surface of another protein on the extracellular fluid side. Integral proteins are embedded between the phospholipids of the cell membrane. The transmembrane integral protein extends through both phospholipids layers. The opposite ends of this protein project into the cytosol and the extracellular fluid. A second, smaller integral protein only extends into the inner phospholipid layer. Its opposite end projects into the cytosol. This second protein is, therefore, not a transmembrane protein. The channel protein is cylinder shaped with a hollow internal tube labeled the pore. The sides of the channel protein can bulge inward to close the pore.">
+<image mime-type="image/jpg" src="../../media/1215_Cell_Membrane_Channels.jpg" width="550"/>
+</media>
+<caption>The cell membrane is composed of a phospholipid bilayer and has many transmembrane proteins, including different types of channel proteins that serve as ion channels.</caption> 
+</figure>
+</para><section id="eip-239"><title>Ion Channels</title><para id="eip-211">Ion channels are pores that allow specific charged particles to cross the membrane in response to an existing concentration gradient. Proteins are capable of spanning the cell membrane, including its hydrophobic core, and can interact with the charge of ions because of the varied properties of amino acids found within specific domains or regions of the protein channel. Hydrophobic amino acids are found in the domains that are apposed to the hydrocarbon tails of the phospholipids. Hydrophilic amino acids are exposed to the fluid environments of the extracellular fluid and cytosol. Additionally, the ions will interact with the hydrophilic amino acids, which will be selective for the charge of the ion. Channels for cations (positive ions) will have negatively charged side chains in the pore. Channels for anions (negative ions) will have positively charged side chains in the pore. This is called <term>electrochemical exclusion</term>, meaning that the channel pore is charge-specific.
+</para><para id="eip-795">Ion channels can also be specified by the diameter of the pore. The distance between the amino acids will be specific for the diameter of the ion when it dissociates from the water molecules surrounding it. Because of the surrounding water molecules, larger pores are not ideal for smaller ions because the water molecules will interact, by hydrogen bonds, more readily than the amino acid side chains. This is called <term>size exclusion</term>. Some ion channels are selective for charge but not necessarily for size, and thus are called a <term>nonspecific channel</term>. These nonspecific channels allow cations—particularly Na<sup>+</sup>, K<sup>+</sup>, and Ca<sup>2+</sup>—to cross the membrane, but exclude anions.</para><para id="eip-383">The sodium/potassium pump requires energy in the form of adenosine triphosphate (ATP), so it is also referred to as an ATPase. As was explained in the <emphasis effect="italics">Membrane Transport</emphasis> chapter, the concentration of Na<sup>+</sup> is higher outside the cell than inside, and the concentration of K<sup>+</sup> is higher inside the cell than outside. That means that this pump is moving the ions against the concentration gradients for sodium and potassium, which is why it requires energy. In fact, the pump basically maintains those concentration gradients.</para><para id="eip-330">Ion channels do not always freely allow ions to diffuse across the membrane. Some are opened by certain events, meaning the channels are <term>gated</term>. So another way that channels can be categorized is on the basis of how they are gated. Although these classes of ion channels are found in large numbers in the cells of nervous and muscular tissue, many also can be found in the cells of epithelial and connective tissues.</para></section><section id="fs-id1521110">
+<title>Ligand-Gated Channels</title><para id="fs-id2092152">A <term>ligand-gated channel</term> opens because a signaling molecule, a ligand, binds to the extracellular region of the channel. This type of channel is also known as an <term>ionotropic receptor</term> because when the ligand, known as a neurotransmitter in the nervous system, binds to the protein, ions cross the membrane changing its charge (<link target-id="fig-ch12_04_02" document=""/>). Ligand-gated channels are found in highest numbers in the dendrites and body of the neuron.</para><figure id="fig-ch12_04_02"><title>Ligand-Gated Channels</title><media id="fs-id1829029" alt="These two diagrams each show a channel protein embedded in the cell membrane. In the left diagram, there is a large number of sodium ions (NA plus) and calcium ions (CA two plus) in the extracellular fluid. Within the cytosol, there is a large number of potassium ions (K plus) but only a few sodium ions. In this diagram, the channel is closed. Two ACH molecules are floating in the extracellular fluid. Their label indicates that a neurotransmitter, a ligand, is required to open the ion channel. The neurotransmitter receptor site on the extracellular fluid side of the channel protein matches the shape of the ACH molecules. In the right diagram, the two ACH molecules attach to the neurotransmitter receptor sites on the channel protein. This opens the channel and the sodium and calcium ions diffuse through the channel and into the cytosol, down their concentration gradient. The potassium ions also diffuse through the channel in the opposite direction down their concentration gradient (out of the cell and into the extracellular fluid).">
+<image mime-type="image/jpg" src="../../media/1216_Ligand-gated_Channels.jpg" width="580"/>
+</media>
+<caption>When the ligand, in this case the neurotransmitter acetylcholine, binds to a specific location on the extracellular surface of the channel protein, the pore opens to allow select ions through. The ions, in this case, are cations of sodium, calcium, and potassium.</caption></figure></section>
+<section id="eip-623"><title>Mechanically-Gated Channels</title><para id="eip-110">A <term>mechanically-gated channel</term> opens because of a physical distortion of the cell membrane. Many channels associated with the sense of touch (somatosensation) are mechanically gated. For example, as pressure is applied to the skin, these channels open and allow ions to enter the cell. Similar to this type of channel would be the channel that opens on the basis of temperature changes, as in testing the water in the shower (<link target-id="fig-ch12_04_03" document=""/>).
+</para><para id="eip-909"><figure id="fig-ch12_04_03">   
+<title>Mechanically-Gated Channels</title>   
+<media id="fs-id2055875" alt="These two diagrams each show a channel protein embedded in the cell membrane. In the left diagram, there are a large number of sodium ions in the extracellular fluid, but only a few sodium ions in the cytosol. There is a large number of calcium ions in the cytosol but only a few calcium ions in the extracellular fluid. In this diagram, the channel is closed, as the extracellular side has a lid, somewhat resembling that on a trash can, that is closed over the channel opening. In the right diagram, the mechanically gated channel is open.  This allows the sodium ions to flow from the extracellular fluid into the cell, down their concentration gradient. At the same time, the calcium ions are moving from the cytosol into the extracellular fluid, down their concentration gradient.">
+<image mime-type="image/jpg" src="../../media/1217_Mechanically-gated_Channels-02.jpg" width="580"/>
+</media>
+<caption>When a mechanical change occurs in the surrounding tissue, such as pressure or touch, the channel is physically opened. Thermoreceptors work on a similar principle. When the local tissue temperature changes, the protein reacts by physically opening the channel.</caption> 
+</figure>
+</para></section><section id="eip-838"><title>Voltage-Gated Channels</title><para id="eip-134">A <term>voltage-gated channel</term> is a channel that responds to changes in the electrical properties of the membrane in which it is embedded. Normally, the inner portion of the membrane is at a negative voltage. When that voltage becomes less negative, the channel begins to allow ions to cross the membrane (<link target-id="fig-ch12_04_04" document=""/>). Some voltage-gated channels have a set voltage (threshold) above which the channel is open and below which it is closed. Other types of voltage-gated channels are more complicated, opening and closing at different voltages. For example, the gate may open at a specific positive voltage, but once open will not close again until it reaches a specific negative voltage, or vice versa. Making things even more complicated, some voltage-gated channels have more than one gate where each gate responds to different voltage properties. In this type of channel, both gates must be open for the ions to move through the membrane.
+</para><para id="eip-970">Neurons have voltage-gated channels that are specific to certain ions. Voltage-gated sodium and potassium channels are mostly found in the axon hillock and axon portions of the neuron. Voltage-gated calcium channels are found at the axon terminal bulbs and activate vesicle fusion with the cell membrane and neurotransmitter release.</para><para id="eip-370"><figure id="fig-ch12_04_04">   
+<title>Voltage-Gated Channels</title>   
+<media id="fs-id1667067" alt="This is a two part diagram. Both diagrams show a voltage gated channel embedded in the lipid membrane bilayer. The channel contains a sphere shaped gate that is attached to a filament. In the first diagram there are several ions in the cytosol but only one ion in the extracellular fluid. The voltage across the membrane is currently minus seventy millivolts and the voltage gated channel is closed. In the second diagram, the voltage in the cytosol is minus fifty millivolts. This voltage change has caused the voltage gated channel to open, as the small sphere is no longer occluding the channel. One of the ions is moving through the channel, down its concentration gradient, and out into the extracellular fluid.">
+<image mime-type="image/jpg" src="../../media/1218_Voltage-gated_Channels.jpg" width="500"/>
+</media>
+<caption>Voltage-gated channels open when the transmembrane voltage changes around them. Amino acids in the structure of the protein are sensitive to charge and cause the pore to open or close.</caption> 
+</figure>
+</para></section><section id="eip-949"><title>Leakage Channels</title><para id="eip-834">A <term>leakage channel</term> is randomly gated, meaning that it opens and closes at random, hence the reference to leaking. There is no actual event that opens the channel; instead, it has an intrinsic rate of switching between the open and closed states. Leakage channels are found throughout the neuron and contribute to the resting transmembrane voltage of the excitable membrane (<link target-id="fig-ch12_04_05" document=""/>). Leakage channels also are found in autorhythmic cells, where the membrane spontaneously depolarizes at a regular interval, for example pacemaker cells in the heart.
+</para><para id="eip-102"><figure id="fig-ch12_04_05">   
+<title>Leakage Channels</title>   
+<media id="fs-id1716294" alt="This is a two part diagram. Both diagrams show a leakage channel embedded in the lipid membrane bilayer. The leakage channel is cylindrical with a large, central opening. In the first diagram there are several ions in the cytosol but only one ion in the extracellular fluid. No ions are moving through the leakage channel because the channel is closed. In the second diagram, the leakage channel randomly opens, allowing two ions to travel through the channel, down their concentration gradient, and out into the extracellular fluid.">
+<image mime-type="image/jpg" src="../../media/1219_Leakage_Channels.jpg" width="550"/>
+</media>
+<caption>In certain situations, ions need to move across the membrane randomly. The particular electrical properties of certain cells are modified by the presence of this type of channel.</caption> 
+</figure>
+</para></section><section id="fs-id2035571" class="summary">
+<title>Section Review</title><para id="fs-id1621345">The nervous system is characterized by electrical signals that are sent from one area to another. The basis of the electrical signal is the controlled distribution of ions across the membrane. Transmembrane ion channels regulate when ions can move in or out of the cell so that a precise signal is generated. Several different types of channels work together to generate and propagate the electrical signal: Ion Channels, Ligand-Gated Channels, Mechanically-Gated Channels, Voltage-Gated Channels, and Leak Channels.</para></section>
+<section id="fs-id1751510" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1942313">
+<problem id="fs-id1517273"><para id="fs-id1531080">Voltage-gated Na<sup>+</sup> channels open upon reaching what state?</para>
+<list id="fs-id1307772" list-type="enumerated" number-style="lower-alpha">
+<item>resting potential</item>
+<item>threshold</item>
+<item>repolarization</item>
+<item>overshoot</item>
+</list>
+</problem>
+<solution id="fs-id1234107">
+<label/>
+<para id="fs-id1492688">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1689714">
+<problem id="fs-id786718"><para id="fs-id1199120">What does a ligand-gated channel require in order to open?</para>
+<list id="fs-id1514355" list-type="enumerated" number-style="lower-alpha"><item>increase in concentration of Na<sup>+</sup> ions</item>
+<item>binding of a chemical signal molecule</item>
+<item>increase in concentration of K<sup>+</sup> ions</item>
+<item>depolarization of the membrane</item>
+</list></problem>
+<solution id="fs-id1487681">
+<label/>
+<para id="fs-id1511808">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1125844">
+<problem id="fs-id1301074"><para id="fs-id961853">What does a mechanically gated channel respond to?</para>
+<list id="fs-id1059419" list-type="enumerated" number-style="lower-alpha">
+<item>physical stimulus</item>
+<item>chemical stimulus</item>
+<item>increase in resistance</item>
+<item>decrease in resistance</item>
+</list>
+</problem>
+<solution id="fs-id1086039">
+<label/>
+<para id="fs-id1243625">A</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1324069"><term>absolute refractory period</term> <meaning id="fs-id1241424">time during an action period when another action potential cannot be generated because the voltage-gated Na<sup>+</sup> channel is inactivated</meaning></definition>
+<definition id="fs-id715545"><term>activation gate</term> <meaning id="fs-id1454477">part of the voltage-gated Na<sup>+</sup> channel that opens when the membrane voltage reaches threshold</meaning></definition>
+<definition id="fs-id1197051"><term>continuous conduction</term> <meaning id="fs-id1005699">slow propagation of an action potential along an unmyelinated axon owing to voltage-gated Na<sup>+</sup> channels located along the entire length of the cell membrane</meaning></definition>
+<definition id="fs-id1667047"><term>depolarization</term> <meaning id="fs-id1511722">change in a cell membrane potential from rest toward zero</meaning></definition>
+<definition id="fs-id756623"><term>electrochemical exclusion</term> <meaning id="fs-id1270016">principle of selectively allowing ions through a channel on the basis of their charge</meaning></definition>
+<definition id="fs-id1138759"><term>excitable membrane</term> <meaning id="fs-id1133693">cell membrane that regulates the movement of ions so that an electrical signal can be generated</meaning></definition>
+<definition id="fs-id1171884"><term>gated</term> <meaning id="fs-id1471472">property of a channel that determines how it opens under specific conditions, such as voltage change or physical deformation</meaning></definition>
+<definition id="fs-id1218166"><term>inactivation gate</term> <meaning id="fs-id715368">part of a voltage-gated Na<sup>+</sup> channel that closes when the membrane potential reaches +30 mV</meaning></definition>
+<definition id="fs-id1241549"><term>ionotropic receptor</term> <meaning id="fs-id2191717">neurotransmitter receptor that acts as an ion channel gate, and opens by the binding of the neurotransmitter</meaning></definition>
+<definition id="fs-id1613476"><term>leakage channel</term> <meaning id="fs-id1828347">ion channel that opens randomly and is not gated to a specific event, also known as a non-gated channel</meaning></definition>
+<definition id="fs-id2032733"><term>ligand-gated channels</term> <meaning id="fs-id1535725">another name for an ionotropic receptor for which a neurotransmitter is the ligand</meaning></definition>
+<definition id="fs-id1298164"><term>mechanically gated channel</term> <meaning id="fs-id2168782">ion channel that opens when a physical event directly affects the structure of the protein</meaning></definition>
+<definition id="fs-id1209339"><term>membrane potential</term> <meaning id="fs-id1212218">distribution of charge across the cell membrane, based on the charges of ions</meaning></definition>
+<definition id="fs-id1229225"><term>nonspecific channel</term> <meaning id="fs-id1212990">channel that is not specific to one ion over another, such as a nonspecific cation channel that allows any positively charged ion across the membrane</meaning></definition>
+<definition id="fs-id1318732"><term>refractory period</term> <meaning id="fs-id1493614">time after the initiation of an action potential when another action potential cannot be generated</meaning></definition>
+<definition id="fs-id1404772"><term>relative refractory period</term> <meaning id="fs-id1500962">time during the refractory period when a new action potential can only be initiated by a stronger stimulus than the current action potential because voltage-gated K<sup>+</sup> channels are not closed</meaning></definition>
+<definition id="fs-id1279014"><term>repolarization</term> <meaning id="fs-id1454333">return of the membrane potential to its normally negative voltage at the end of the action potential</meaning></definition>
+<definition id="fs-id1230543"><term>resistance</term> <meaning id="fs-id1088501">property of an axon that relates to the ability of particles to diffuse through the cytoplasm; this is inversely proportional to the fiber diameter</meaning></definition>
+<definition id="fs-id2336849"><term>resting membrane potential</term> <meaning id="fs-id2576645">the difference in voltage measured across a cell membrane under steady-state conditions, typically -70 mV</meaning></definition>
+<definition id="fs-id1536259"><term>saltatory conduction</term> <meaning id="fs-id1178512">quick propagation of the action potential along a myelinated axon owing to voltage-gated Na<sup>+</sup> channels being present only at the nodes of Ranvier</meaning></definition>
+<definition id="fs-id1455898"><term>size exclusion</term> <meaning id="fs-id1303626">principle of selectively allowing ions through a channel on the basis of their relative size</meaning></definition>
+<definition id="fs-id1739789"><term>voltage-gated channel</term> <meaning id="fs-id1285196">ion channel that opens because of a change in the charge distributed across the membrane where it is located</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,204 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Gustation (Taste)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63737</md:content-id>
+  <md:title>Gustation (Taste)</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe different types of sensory receptors</item>
+<item>Describe the structures responsible for the special senses of taste, smell, hearing, balance, and vision</item>
+<item>Distinguish how different tastes are transduced</item>
+<item>Describe the means of mechanoreception for hearing and balance</item>
+<item>List the supporting structures around the eye and describe the structure of the eyeball</item>
+<item>Describe the processes of phototransduction</item>
+</list></md:abstract>
+  <md:uuid>b8f4a23b-7ebd-4381-8f18-141b4a611093</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-777">Gustation is the special sense associated with the tongue. The surface of the tongue, along with the rest of the oral cavity, is lined by a stratified squamous epithelium. Raised bumps called <term>papillae</term> (singular = papilla) contain the structures for gustatory transduction. There are four types of papillae, based on their appearance (<link target-id="fig-ch14_01_02" document=""/>): circumvallate, foliate, filiform, and fungiform. Within the structure of the papillae are <term>taste buds</term> that contain specialized <term>gustatory receptor cells</term> for the transduction of taste stimuli. These receptor cells are sensitive to the chemicals contained within foods that are ingested, and they release neurotransmitters based on the amount of the chemical in the food. Neurotransmitters from the gustatory cells can activate sensory neurons in the facial, glossopharyngeal, and vagus cranial nerves.</para><para id="eip-104"><figure id="fig-ch14_01_02">
+<title>The Tongue</title>   
+<media id="fs-id2107937" alt="The left panel shows the image of a tongue with callouts that show magnified views of different parts of the tongue. The top right panel shows a micrograph of the circumvallate papilla, and the bottom right panel shows the structure of a taste bud.">
+<image mime-type="image/jpg" src="../../media/1402_The_Tongue.jpg" width="525"/>
+</media>
+<caption>The tongue is covered with small bumps, called papillae, which contain taste buds that are sensitive to chemicals in ingested food or drink. Different types of papillae are found in different regions of the tongue. The taste buds contain specialized gustatory receptor cells that respond to chemical stimuli dissolved in the saliva. These receptor cells activate sensory neurons that are part of the facial and glossopharyngeal nerves. LM × 1600. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption> 
+</figure>
+</para><para id="eip-675">Only a few recognized submodalities exist within the sense of taste, or <term>gustation</term>. Until recently, only four tastes were recognized: sweet, salty, sour, and bitter. Research at the turn of the 20th century led to recognition of the fifth taste, umami, during the mid-1980s. <term>Umami</term> is a Japanese word that means “delicious taste,” and is often translated to mean savory. Very recent research has suggested that there may also be a sixth taste for fats, or lipids.</para><para id="eip-581">Salty taste is simply the perception of sodium ions (Na<sup>+</sup>) in the saliva. When you eat something salty, the salt crystals dissociate into the component ions Na<sup>+</sup> and Cl<sup>–</sup>, which dissolve into the saliva in your mouth. The Na<sup>+</sup> concentration becomes high outside the gustatory cells, creating a strong concentration gradient that drives the diffusion of the ion into the cells. The entry of Na<sup>+</sup> into these cells results in the depolarization of the cell membrane and the generation of a receptor potential.</para><para id="eip-672">Sour taste is the perception of H<sup>+</sup> concentration. Just as with sodium ions in salty flavors, these hydrogen ions enter the cell and trigger depolarization. Sour flavors are, essentially, the perception of acids in our food. Increasing hydrogen ion concentrations in the saliva (lowering saliva pH) triggers progressively stronger graded potentials in the gustatory cells. For example, orange juice—which contains citric acid—will taste sour because it has a pH value of approximately 3. Of course, it is often sweetened so that the sour taste is masked.</para><para id="eip-558">The first two tastes (salty and sour) are triggered by the cations Na<sup>+</sup> and H<sup>+</sup>. The other tastes result from food molecules binding to a G protein–coupled receptor. A G protein signal transduction system ultimately leads to depolarization of the gustatory cell. The sweet taste is the sensitivity of gustatory cells to the presence of glucose dissolved in the saliva. Other monosaccharides such as fructose, or artificial sweeteners such as aspartame (NutraSweet™), saccharine, or sucralose (Splenda™) also activate the sweet receptors. The affinity for each of these molecules varies, and some will taste sweeter than glucose because they bind to the G protein–coupled receptor differently.</para><para id="eip-717">Bitter taste is similar to sweet in that food molecules bind to G protein–coupled receptors. However, there are a number of different ways in which this can happen because there are a large diversity of bitter-tasting molecules. Some bitter molecules depolarize gustatory cells, whereas others hyperpolarize gustatory cells. Likewise, some bitter molecules increase G protein activation within the gustatory cells, whereas other bitter molecules decrease G protein activation. The specific response depends on which molecule is binding to the receptor.</para><para id="eip-511">One major group of bitter-tasting molecules are alkaloids. <term>Alkaloids</term> are nitrogen containing molecules that are commonly found in bitter-tasting plant products, such as coffee, hops (in beer), tannins (in wine), tea, and aspirin. By containing toxic alkaloids, the plant is less susceptible to microbe infection and less attractive to herbivores.</para><para id="eip-911">Therefore, the function of bitter taste may primarily be related to stimulating the gag reflex to avoid ingesting poisons. Because of this, many bitter foods that are normally ingested are often combined with a sweet component to make them more palatable (cream and sugar in coffee, for example). The highest concentration of bitter receptors appear to be in the posterior tongue, where a gag reflex could still spit out poisonous food.</para><para id="eip-889">The taste known as umami is often referred to as the savory taste. Like sweet and bitter, it is based on the activation of G protein–coupled receptors by a specific molecule. The molecule that activates this receptor is the amino acid L-glutamate. Therefore, the umami flavor is often perceived while eating protein-rich foods. Not surprisingly, dishes that contain meat are often described as savory.</para><para id="eip-978">Once the gustatory cells are activated by the taste molecules, they release neurotransmitters onto the dendrites of sensory neurons. These neurons are part of the facial and glossopharyngeal cranial nerves, as well as a component within the vagus nerve dedicated to the gag reflex. The facial nerve connects to taste buds in the anterior third of the tongue. The glossopharyngeal nerve connects to taste buds in the posterior two thirds of the tongue. The vagus nerve connects to taste buds in the extreme posterior of the tongue, verging on the pharynx, which are more sensitive to noxious stimuli such as bitterness.</para><note id="eip-794"><label/>
+<media id="fs-id2119806" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/DanielleReed.png" width="120"/>
+</media>
+<para id="fs-id1592886">Watch this <link url="http://openstaxcollege.org/l/DanielleReed">video</link> to learn about Dr. Danielle Reed of the Monell Chemical Senses Center in Philadelphia, Pennsylvania, who became interested in science at an early age because of her sensory experiences. She recognized that her sense of taste was unique compared with other people she knew. Now, she studies the genetic differences between people and their sensitivities to taste stimuli. In the video, there is a brief image of a person sticking out their tongue, which has been covered with a colored dye. This is how Dr. Reed is able to visualize and count papillae on the surface of the tongue. People fall into two groups known as “tasters” and “non-tasters” based on the density of papillae on their tongue, which also indicates the number of taste buds. Non-tasters can taste food, but they are not as sensitive to certain tastes, such as bitterness. Dr. Reed discovered that she is a non-taster, which explains why she perceived bitterness differently than other people she knew. Are you very sensitive to tastes? Can you see any similarities among the members of your family?</para>
+</note><section id="fs-id1278355" class="summary">
+<title>Section Review</title><para id="fs-id2738849">Five tastes are recognized as having distinct receptors for gustation:  salty, sweet, sour, bitter, and umami (savory). The first two tastes (salty and sour) are triggered by the cations Na<sup>+</sup> and H<sup>+</sup>. The other tastes result from food molecules binding to a G protein–coupled receptor.</para><para id="eip-354">The bitter receptors are the most complex in that some bitter molecules depolarize gustatory cells, whereas others hyperpolarize gustatory cells. Likewise, some bitter molecules increase G protein activation within the gustatory cells, whereas other bitter molecules decrease G protein activation.</para></section>
+<section id="fs-id2427745" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id2354604">
+<problem id="fs-id2522841">
+<para id="fs-id2394702">Watch this <link url="http://openstaxcollege.org/l/DanielleReed">video</link> to learn about Dr. Danielle Reed of the Monell Chemical Senses Center in Philadelphia, PA, who became interested in science at an early age because of her sensory experiences. She recognized that her sense of taste was unique compared with other people she knew. Now, she studies the genetic differences between people and their sensitivities to taste stimuli. In the video, there is a brief image of a person sticking out their tongue, which has been covered with a colored dye. This is how Dr. Reed is able to visualize and count papillae on the surface of the tongue. People fall into two large groups known as “tasters” and “non-tasters” on the basis of the density of papillae on their tongue, which also indicates the number of taste buds. Non-tasters can taste food, but they are not as sensitive to certain tastes, such as bitterness. Dr. Reed discovered that she is a non-taster, which explains why she perceived bitterness differently than other people she knew. Are you very sensitive to tastes? Can you see any similarities among the members of your family?</para>
+</problem>
+<solution id="fs-id1617099">
+<label/>
+<para id="fs-id2146662">Answers will vary, but a typical answer might be: I can eat most anything (except mushrooms!), so I don’t think that I’m that sensitive to tastes. My whole family likes eating a variety of foods, so it seems that we all have the same level of sensitivity.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2594719" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2740806">
+<problem id="fs-id1517352"><para id="fs-id1517353">Which of these cranial nerves is part of the gustatory system?</para>
+<list id="fs-id2155932" list-type="enumerated" number-style="lower-alpha">
+<item>olfactory</item>
+<item>trochlear</item>
+<item>trigeminal</item>
+<item>facial</item>
+</list>
+</problem>
+<solution id="fs-id2384182">
+<label/>
+<para id="fs-id2483056">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2589425">
+<problem id="fs-id2382198"><para id="fs-id1953664">Which submodality of taste is sensitive to the pH of saliva?</para>
+<list id="fs-id2532771" list-type="enumerated" number-style="lower-alpha">
+<item>umami</item>
+<item>sour</item>
+<item>bitter</item>
+<item>sweet</item>
+</list>
+</problem>
+<solution id="fs-id2595983">
+<label/>
+<para id="fs-id2520635">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2371428" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2061794">
+<problem id="fs-id2485827"><para id="fs-id2203636">The sweetener known as stevia can replace glucose in food. What does the molecular similarity of stevia to glucose mean for the gustatory sense?</para></problem>
+<solution id="fs-id2025724"><label/>
+<para id="fs-id1531355">The stevia molecule is similar to glucose such that it will bind to the glucose receptor in sweet-sensitive taste buds. However, it is not a substrate for the ATP-generating metabolism within cells.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1688571"><term>alkaloid</term> <meaning id="fs-id2610630">substance, usually from a plant source, that is chemically basic with respect to pH and will stimulate bitter receptors</meaning></definition>
+<definition id="fs-id1517547"><term>amacrine cell</term> <meaning id="fs-id1748920">type of cell in the retina that connects to the bipolar cells near the outer synaptic layer and provides the basis for early image processing within the retina</meaning></definition>
+<definition id="fs-id1584033"><term>ampulla</term> <meaning id="fs-id1470668">in the ear, the structure at the base of a semicircular canal that contains the hair cells and cupula for transduction of rotational movement of the head</meaning></definition>
+<definition id="fs-id2370597"><term>anosmia</term> <meaning id="fs-id2006679">loss of the sense of smell; usually the result of physical disruption of the first cranial nerve</meaning></definition>
+<definition id="fs-id1588524"><term>aqueous humor</term> <meaning id="fs-id2593483">watery fluid that fills the anterior chamber containing the cornea, iris, ciliary body, and lens of the eye</meaning></definition>
+<definition id="fs-id2737390"><term>audition</term> <meaning id="fs-id2080916">sense of hearing</meaning></definition>
+<definition id="fs-id2132729"><term>auricle</term> <meaning id="fs-id2298374">fleshy external structure of the ear</meaning></definition>
+<definition id="fs-id2640261"><term>basilar membrane</term> <meaning id="fs-id2762096">in the ear, the floor of the cochlear duct on which the organ of Corti sits</meaning></definition>
+<definition id="fs-id1708056"><term>bipolar cell</term> <meaning id="fs-id2176052">cell type in the retina that connects the photoreceptors to the RGCs</meaning></definition>
+<definition id="fs-id1910178"><term>capsaicin</term> <meaning id="fs-id2623547">molecule that activates nociceptors by interacting with a temperature-sensitive ion channel and is the basis for “hot” sensations in spicy food</meaning></definition>
+<definition id="fs-id1586916"><term>chemoreceptor</term> <meaning id="fs-id2867548">sensory receptor cell that is sensitive to chemical stimuli, such as in taste, smell, or pain</meaning></definition>
+<definition id="fs-id2674425"><term>choroid</term> <meaning id="fs-id2570570">highly vascular tissue in the wall of the eye that supplies the outer retina with blood</meaning></definition>
+<definition id="fs-id3150648"><term>ciliary body</term> <meaning id="fs-id2174823">smooth muscle structure on the interior surface of the iris that controls the shape of the lens through the zonule fibers</meaning></definition>
+<definition id="fs-id2417863"><term>cochlea</term> <meaning id="fs-id1882068">auditory portion of the inner ear containing structures to transduce sound stimuli</meaning></definition>
+<definition id="fs-id2307041"><term>cochlear duct</term> <meaning id="fs-id2052019">space within the auditory portion of the inner ear that contains the organ of Corti and is adjacent to the scala tympani and scala vestibuli on either side</meaning></definition>
+<definition id="fs-id2122594"><term>cone photoreceptor</term> <meaning id="fs-id2533192">one of the two types of retinal receptor cell that is specialized for color vision through the use of three photopigments distributed through three separate populations of cells</meaning></definition>
+<definition id="fs-id2584800"><term>contralateral</term> <meaning id="fs-id1531576">word meaning “on the opposite side,” as in axons that cross the midline in a fiber tract</meaning></definition>
+<definition id="fs-id2116138"><term>cornea</term> <meaning id="fs-id2372322">fibrous covering of the anterior region of the eye that is transparent so that light can pass through it</meaning></definition>
+<definition id="fs-id2593847"><term>cupula</term> <meaning id="fs-id2413223">specialized structure within the base of a semicircular canal that bends the stereocilia of hair cells when the head rotates by way of the relative movement of the enclosed fluid</meaning></definition>
+<definition id="fs-id2148554"><term>encapsulated ending</term> <meaning id="fs-id2532729">configuration of a sensory receptor neuron with dendrites surrounded by specialized structures to aid in transduction of a particular type of sensation, such as the lamellated corpuscles in the deep dermis and subcutaneous tissue</meaning></definition>
+<definition id="fs-id2500959"><term>equilibrium</term> <meaning id="fs-id2270195">sense of balance that includes sensations of position and movement of the head</meaning></definition>
+<definition id="fs-id2489071"><term>external ear</term> <meaning id="fs-id2847664">structures on the lateral surface of the head, including the auricle and the ear canal back to the tympanic membrane</meaning></definition>
+<definition id="fs-id1748177"><term>exteroceptor</term> <meaning id="fs-id1752139">sensory receptor that is positioned to interpret stimuli from the external environment, such as photoreceptors in the eye or somatosensory receptors in the skin</meaning></definition>
+<definition id="fs-id2796773"><term>extraocular muscle</term> <meaning id="fs-id2426971">one of six muscles originating out of the bones of the orbit and inserting into the surface of the eye which are responsible for moving the eye</meaning></definition>
+<definition id="fs-id2978129"><term>fibrous tunic</term> <meaning id="fs-id2280614">outer layer of the eye primarily composed of connective tissue known as the sclera and cornea</meaning></definition>
+<definition id="fs-id1379450"><term>fovea</term> <meaning id="fs-id3938294">exact center of the retina at which visual stimuli are focused for maximal acuity, where the retina is thinnest, at which there is nothing but photoreceptors</meaning></definition>
+<definition id="fs-id2451032"><term>free nerve ending</term> <meaning id="fs-id1530589">configuration of a sensory receptor neuron with dendrites in the connective tissue of the organ, such as in the dermis of the skin, that are most often sensitive to chemical, thermal, and mechanical stimuli</meaning></definition>
+<definition id="fs-id2396872"><term>general sense</term> <meaning id="fs-id2582570">any sensory system that is distributed throughout the body and incorporated into organs of multiple other systems, such as the walls of the digestive organs or the skin</meaning></definition>
+<definition id="fs-id2574619"><term>gustation</term> <meaning id="fs-id1845402">sense of taste</meaning></definition>
+<definition id="fs-id2812739"><term>gustatory receptor cells</term> <meaning id="fs-id2181856">sensory cells in the taste bud that transduce the chemical stimuli of gustation</meaning></definition>
+<definition id="fs-id1845671"><term>hair cells</term> <meaning id="fs-id2531221">mechanoreceptor cells found in the inner ear that transduce stimuli for the senses of hearing and balance</meaning></definition>
+<definition id="fs-id1844790"><term>incus</term> <meaning id="fs-id2919193">(also, anvil) ossicle of the middle ear that connects the malleus to the stapes</meaning></definition>
+<definition id="fs-id1530552"><term>inferior oblique</term> <meaning id="fs-id1397845">extraocular muscle responsible for lateral rotation of the eye</meaning></definition>
+<definition id="fs-id1766205"><term>inferior rectus</term> <meaning id="fs-id2788497">extraocular muscle responsible for looking down</meaning></definition>
+<definition id="fs-id2352188"><term>inner ear</term> <meaning id="fs-id2835343">structure within the temporal bone that contains the sensory apparati of hearing and balance</meaning></definition>
+<definition id="fs-id1386374"><term>inner segment</term> <meaning id="fs-id2718486">in the eye, the section of a photoreceptor that contains the nucleus and other major organelles for normal cellular functions</meaning></definition>
+<definition id="fs-id2051605"><term>inner synaptic layer</term> <meaning id="fs-id1339167">layer in the retina where bipolar cells connect to RGCs</meaning></definition>
+<definition id="fs-id2031884"><term>interoceptor</term> <meaning id="fs-id2641984">sensory receptor that is positioned to interpret stimuli from internal organs, such as stretch receptors in the wall of blood vessels</meaning></definition>
+<definition id="fs-id4195000"><term>ipsilateral</term> <meaning id="fs-id1707839">word meaning on the same side, as in axons that do not cross the midline in a fiber tract</meaning></definition>
+<definition id="fs-id2362905"><term>iris</term> <meaning id="fs-id2480492">colored portion of the anterior eye that surrounds the pupil</meaning></definition>
+<definition id="fs-id2108994"><term>kinesthesia</term> <meaning id="fs-id1615764">sense of body movement based on sensations in skeletal muscles, tendons, joints, and the skin</meaning></definition>
+<definition id="fs-id1838526"><term>lacrimal duct</term> <meaning id="fs-id2524333">duct in the medial corner of the orbit that drains tears into the nasal cavity</meaning></definition>
+<definition id="fs-id2145302"><term>lacrimal gland</term> <meaning id="fs-id1410477">gland lateral to the orbit that produces tears to wash across the surface of the eye</meaning></definition>
+<definition id="fs-id2237245"><term>lateral rectus</term> <meaning id="fs-id2531232">extraocular muscle responsible for abduction of the eye</meaning></definition>
+<definition id="fs-id1321295"><term>lens</term> <meaning id="fs-id3106441">component of the eye that focuses light on the retina</meaning></definition>
+<definition id="fs-id2572683"><term>levator palpebrae superioris</term> <meaning id="fs-id2644246">muscle that causes elevation of the upper eyelid, controlled by fibers in the oculomotor nerve</meaning></definition>
+<definition id="fs-id2673956"><term>macula</term> <meaning id="fs-id2470634">enlargement at the base of a semicircular canal at which transduction of equilibrium stimuli takes place within the ampulla</meaning></definition>
+<definition id="fs-id2170232"><term>malleus</term> <meaning id="fs-id2008426">(also, hammer) ossicle that is directly attached to the tympanic membrane</meaning></definition>
+<definition id="fs-id2695566"><term>mechanoreceptor</term> <meaning id="fs-id2525131">receptor cell that transduces mechanical stimuli into an electrochemical signal</meaning></definition>
+<definition id="fs-id2738795"><term>medial rectus</term> <meaning id="fs-id2355468">extraocular muscle responsible for adduction of the eye</meaning></definition>
+<definition id="fs-id1850288"><term>middle ear</term> <meaning id="fs-id1546119">space within the temporal bone between the ear canal and bony labyrinth where the ossicles amplify sound waves from the tympanic membrane to the oval window</meaning></definition>
+<definition id="fs-id1982994"><term>neural tunic</term> <meaning id="fs-id2696827">layer of the eye that contains nervous tissue, namely the retina</meaning></definition>
+<definition id="fs-id2230111"><term>nociceptor</term> <meaning id="fs-id1370106">receptor cell that senses pain stimuli</meaning></definition>
+<definition id="fs-id1639346"><term>odorant molecules</term> <meaning id="fs-id2097753">volatile chemicals that bind to receptor proteins in olfactory neurons to stimulate the sense of smell</meaning></definition>
+<definition id="fs-id2368842"><term>olfaction</term> <meaning id="fs-id2428640">sense of smell</meaning></definition>
+<definition id="fs-id2370469"><term>olfactory bulb</term> <meaning id="fs-id1903485">central target of the first cranial nerve; located on the ventral surface of the frontal lobe in the cerebrum</meaning></definition>
+<definition id="fs-id1474653"><term>olfactory epithelium</term> <meaning id="fs-id2299759">region of the nasal epithelium where olfactory neurons are located</meaning></definition>
+<definition id="fs-id1856347"><term>olfactory sensory neuron</term> <meaning id="fs-id1546432">receptor cell of the olfactory system, sensitive to the chemical stimuli of smell, the axons of which compose the first cranial nerve</meaning></definition>
+<definition id="fs-id2297778"><term>opsin</term> <meaning id="fs-id2299678">protein that contains the photosensitive cofactor retinal for phototransduction</meaning></definition>
+<definition id="fs-id1368067"><term>optic disc</term> <meaning id="fs-id1489287">spot on the retina at which RGC axons leave the eye and blood vessels of the inner retina pass</meaning></definition>
+<definition id="fs-id1587772"><term>optic nerve</term> <meaning id="fs-id1999832">second cranial nerve, which is responsible visual sensation</meaning></definition>
+<definition id="fs-id2282101"><term>organ of Corti</term> <meaning id="fs-id1652808">structure in the cochlea in which hair cells transduce movements from sound waves into electrochemical signals</meaning></definition>
+<definition id="fs-id2129369"><term>osmoreceptor</term> <meaning id="fs-id2338669">receptor cell that senses differences in the concentrations of bodily fluids on the basis of osmotic pressure</meaning></definition>
+<definition id="fs-id2260824"><term>ossicles</term> <meaning id="fs-id2446714">three small bones in the middle ear</meaning></definition>
+<definition id="fs-id1165207862551"><term>otolith</term> <meaning id="fs-id1165190996270">layer of calcium carbonate crystals located on top of the otolithic membrane</meaning></definition>
+<definition id="fs-id2278136"><term>otolithic membrane</term> <meaning id="fs-id943347">gelatinous substance in the utricle and saccule of the inner ear that contains calcium carbonate crystals and into which the stereocilia of hair cells are embedded</meaning></definition>
+<definition id="fs-id2652920"><term>outer segment</term> <meaning id="fs-id2430027">in the eye, the section of a photoreceptor that contains opsin molecules that transduce light stimuli</meaning></definition>
+<definition id="fs-id2639607"><term>outer synaptic layer</term> <meaning id="fs-id1641142">layer in the retina at which photoreceptors connect to bipolar cells</meaning></definition>
+<definition id="fs-id2508237"><term>oval window</term> <meaning id="fs-id2108256">membrane at the base of the cochlea where the stapes attaches, marking the beginning of the scala vestibuli</meaning></definition>
+<definition id="fs-id2815440"><term>palpebral conjunctiva</term> <meaning id="fs-id2382907">membrane attached to the inner surface of the eyelids that covers the anterior surface of the cornea</meaning></definition>
+<definition id="fs-id2762612"><term>papilla</term> <meaning id="fs-id2652695">for gustation, a bump-like projection on the surface of the tongue that contains taste buds</meaning></definition>
+<definition id="fs-id2119747"><term>photoisomerization</term> <meaning id="fs-id2134916">chemical change in the retinal molecule that alters the bonding so that it switches from the 11-<emphasis effect="italics">cis</emphasis>-retinal isomer to the all-<emphasis effect="italics">trans</emphasis>-retinal isomer</meaning></definition>
+<definition id="fs-id2592051"><term>photon</term> <meaning id="fs-id2137963">individual “packet” of light</meaning></definition>
+<definition id="fs-id2032172"><term>photoreceptor</term> <meaning id="fs-id2226918">receptor cell specialized to respond to light stimuli</meaning></definition>
+<definition id="fs-id1848942"><term>proprioception</term> <meaning id="fs-id2694943">sense of position and movement of the body</meaning></definition>
+<definition id="fs-id2844880"><term>proprioceptor</term> <meaning id="fs-id2311071">receptor cell that senses changes in the position and kinesthetic aspects of the body</meaning></definition>
+<definition id="fs-id2722460"><term>pupil</term> <meaning id="fs-id2523752">open hole at the center of the iris that light passes through into the eye</meaning></definition>
+<definition id="fs-id1256105"><term>receptor cell</term> <meaning id="fs-id2458275">cell that transduces environmental stimuli into neural signals</meaning></definition>
+<definition id="fs-id2414925"><term>retina</term> <meaning id="fs-id2132594">nervous tissue of the eye at which phototransduction takes place</meaning></definition>
+<definition id="fs-id2813497"><term>retinal</term> <meaning id="fs-id2486940">cofactor in an opsin molecule that undergoes a biochemical change when struck by a photon (pronounced with a stress on the last syllable)</meaning></definition>
+<definition id="fs-id2004510"><term>retinal ganglion cell (RGC)</term> <meaning id="fs-id1422210">neuron of the retina that projects along the second cranial nerve</meaning></definition>
+<definition id="fs-id1921581"><term>rhodopsin</term> <meaning id="fs-id2057273">photopigment molecule found in the rod photoreceptors</meaning></definition>
+<definition id="fs-id1339174"><term>rod photoreceptor</term> <meaning id="fs-id2351290">one of the two types of retinal receptor cell that is specialized for low-light vision</meaning></definition>
+<definition id="fs-id2124643"><term>round window</term> <meaning id="fs-id2978055">membrane that marks the end of the scala tympani</meaning></definition>
+<definition id="fs-id2799995"><term>saccule</term> <meaning id="fs-id2016195">structure of the inner ear responsible for transducing linear acceleration in the vertical plane</meaning></definition>
+<definition id="fs-id1637961"><term>scala tympani</term> <meaning id="fs-id2350054">portion of the cochlea that extends from the apex to the round window</meaning></definition>
+<definition id="fs-id1892003"><term>scala vestibuli</term> <meaning id="fs-id629401">portion of the cochlea that extends from the oval window to the apex</meaning></definition>
+<definition id="fs-id2269264"><term>sclera</term> <meaning id="fs-id2670276">white of the eye</meaning></definition>
+<definition id="fs-id2673095"><term>semicircular canals</term> <meaning id="fs-id2772980">structures within the inner ear responsible for transducing rotational movement information</meaning></definition>
+<definition id="fs-id1987678"><term>sensory modality</term> <meaning id="fs-id2464140">a particular system for interpreting and perceiving environmental stimuli by the nervous system</meaning></definition>
+<definition id="fs-id1653406"><term>somatosensation</term> <meaning id="fs-id2023182">general sense associated with modalities lumped together as touch</meaning></definition>
+<definition id="fs-id2458698"><term>special sense</term> <meaning id="fs-id2036674">any sensory system associated with a specific organ structure, namely smell, taste, sight, hearing, and balance</meaning></definition>
+<definition id="fs-id2111324"><term>spiral ganglion</term> <meaning id="fs-id1617222">location of neuronal cell bodies that transmit auditory information along the eighth cranial nerve</meaning></definition>
+<definition id="fs-id2175909"><term>stapes</term> <meaning id="fs-id2071142">(also, stirrup) ossicle of the middle ear that is attached to the inner ear</meaning></definition>
+<definition id="fs-id2417163"><term>stereocilia</term> <meaning id="fs-id2518027">array of apical membrane extensions in a hair cell that transduce movements when they are bent</meaning></definition>
+<definition id="fs-id2282260"><term>submodality</term> <meaning id="fs-id2045042">specific sense within a broader major sense such as sweet as a part of the sense of taste, or color as a part of vision</meaning></definition>
+<definition id="fs-id1978381"><term>superior oblique</term> <meaning id="fs-id2304283">extraocular muscle responsible for medial rotation of the eye</meaning></definition>
+<definition id="fs-id2469158"><term>superior rectus</term> <meaning id="fs-id1638031">extraocular muscle responsible for looking up</meaning></definition>
+<definition id="fs-id2366514"><term>taste buds</term> <meaning id="fs-id1905335">structures within a papilla on the tongue that contain gustatory receptor cells</meaning></definition>
+<definition id="fs-id1535594"><term>tectorial membrane</term> <meaning id="fs-id2186889">component of the organ of Corti that lays over the hair cells, into which the stereocilia are embedded</meaning></definition>
+<definition id="fs-id2788712"><term>thermoreceptor</term> <meaning id="fs-id2458453">sensory receptor specialized for temperature stimuli</meaning></definition>
+<definition id="fs-id1546050"><term>topographical</term> <meaning id="fs-id2115503">relating to positional information</meaning></definition>
+<definition id="fs-id1516474"><term>transduction</term> <meaning id="fs-id2745165">process of changing an environmental stimulus into the electrochemical signals of the nervous system</meaning></definition>
+<definition id="fs-id1356490"><term>trochlea</term> <meaning id="fs-id2026645">cartilaginous structure that acts like a pulley for the superior oblique muscle</meaning></definition>
+<definition id="fs-id2625814"><term>tympanic membrane</term> <meaning id="fs-id2875578">ear drum</meaning></definition>
+<definition id="fs-id2252769"><term>umami</term> <meaning id="fs-id1442307">taste submodality for sensitivity to the concentration of amino acids; also called the savory sense</meaning></definition>
+<definition id="fs-id1610898"><term>utricle</term> <meaning id="fs-id1967083">structure of the inner ear responsible for transducing linear acceleration in the horizontal plane</meaning></definition>
+<definition id="fs-id2766954"><term>vascular tunic</term> <meaning id="fs-id2246837">middle layer of the eye primarily composed of connective tissue with a rich blood supply</meaning></definition>
+<definition id="fs-id2601528"><term>vestibular ganglion</term> <meaning id="fs-id2010914">location of neuronal cell bodies that transmit equilibrium information along the eighth cranial nerve</meaning></definition>
+<definition id="fs-id2103109"><term>vestibule</term> <meaning id="fs-id1927346">in the ear, the portion of the inner ear responsible for the sense of equilibrium</meaning></definition>
+<definition id="fs-id2226926"><term>visceral sense</term> <meaning id="fs-id2299838">sense associated with the internal organs</meaning></definition>
+<definition id="fs-id2308716"><term>vision</term> <meaning id="fs-id2286706">special sense of sight based on transduction of light stimuli</meaning></definition>
+<definition id="fs-id2655901"><term>visual acuity</term> <meaning id="fs-id2138997">property of vision related to the sharpness of focus, which varies in relation to retinal position</meaning></definition>
+<definition id="fs-id2294606"><term>vitreous humor</term> <meaning id="fs-id2752965">viscous fluid that fills the posterior chamber of the eye</meaning></definition>
+<definition id="fs-id2459355"><term>zonule fibers</term> <meaning id="fs-id2457996">fibrous connections between the ciliary body and the lens</meaning></definition>
+</glossary>
+</document>

@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Coordinating the Multicellular Infrastructure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m54642</md:content-id>
+  <md:title>Coordinating the Multicellular Infrastructure</md:title>
+  <md:abstract>An introduction to the two major communication processes used by multicellular organisms to coordinate and maintain the infrastructure required to support the survival and reproduction of the whole organism. This module includes content from module m46656 "An Overview of the Endocrine System".</md:abstract>
+  <md:uuid>97bf6cdb-073f-4e5f-a5a5-e6044e08b2fe</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-417">Everything an organism does is done by cells or products created by cells. The human body is made up of trillions of individual cells, most of which are highly specialized. This high level of specialization can occur only because most aspects of their extracellular environment are maintained within narrow ranges by the collective infrastructure these cells create. This allows the specialized cells to direct their internal machinery toward performing very specific functions rather than maintaining the ability to cope with wide changes in their extracellular environment. Most of the specific functions these cells perform help maintain the homeostasis of the collective infrastructure that we experience as our body. This requires cooperation, coordination, and communication among the constituent cells. </para><para id="eip-119">The earlier chapters on <emphasis effect="italics">Foundation Concepts</emphasis> provided you with an introduction to the mechanisms that allow for both specialization and communication among cells. In this section of chapters we will apply those mechanisms to the two specialized cellular infrastructure (organ) systems that support the communication required to maintain homeostasis in the collective environment: the <emphasis>nervous system</emphasis> and the <emphasis>endocrine system</emphasis>. </para><para id="eip-254">The <emphasis>nervous system</emphasis> combines two types of signaling — electrical and chemical - to accomplish intercellular communication. The signal is first transmitted as an electrical potential along the cell membrane. Sometimes these electrical signals travel along thin membrane extensions, called axons, long distances to their target cells. When an electrical signal in the form of an <term>action potential</term> arrives at the axon terminal, chemical signals - <term>neurotransmitters</term> - such as acetylcholine or norepinephrine are released very close to the target cell. The neurotransmitters diffuse across the synaptic cleft (the small gap between a presynaptic signaling neuron and a postsynaptic target neuron or muscle cell) and bind with receptors on the postsynaptic cell. The signal is transduced into a response in the postsynaptic cell such as continued electrical signaling or modification of cellular response. </para><para id="eip-325">The electrical potential carries the signal over long distances much more rapidly than chemical circulation in the blood (in milliseconds rather than seconds or minutes). At the synaptic terminal the electrical signal is converted to a chemical signal by stimulating the release of the chemical ligand (neurotransmitter). The target cell responds within milliseconds of receiving the chemical signal. The response then ceases very quickly as the released neurotransmitters are either broken down by enzymes or removed from the synapse via channels. In this way, neural communication enables coordination of body functions that involve quick, brief actions, such as movement, sensation, and cognition that could not be accomplished by chemical communication alone.
+</para><para id="eip-441">In contrast, the <term>endocrine system</term> uses just one method of communication: chemical signaling. These signals - the <term>hormones</term> - are secreted by cells in the endocrine organs into the extracellular fluid. The hormones diffuse into the bloodstream and are transported throughout the body, where they diffuse into distant extracellular fluid and bind to receptors on target cells, inducing a characteristic response. As a result, endocrine signaling requires more time than neural signaling to prompt a response in target cells, though the precise amount of time varies with different hormones. For example, the hormones released when you are confronted with a dangerous or frightening situation, called the fight-or-flight response, occur within seconds by the release of adrenal hormones—epinephrine and norepinephrine. In contrast, it may take up to 48 hours for target cells to respond to certain reproductive hormones.</para><para id="eip-846">In addition, endocrine signaling is typically less specific than neural signaling. The same hormone may play a role in a variety of physiological processes in different parts of the body depending on the target cells involved. For example, the hormone oxytocin promotes smooth muscle contractions both in the uterus during labor and in lactiferous ducts for milk ejection during breastfeeding. It also is released as part of the sexual response and promotes feelings of emotional attachment in both males and females.</para><para id="eip-45">In general, the nervous system involves quick responses to rapid changes in the external environment, and the endocrine system is usually slower acting—taking care of the internal environment of the body, maintaining homeostasis of the multicellular infrastructure, and controlling reproduction (<link target-id="eip-984" document=""/>). So how does the fight-or-flight response that was mentioned earlier happen so quickly if hormones are usually slower acting? It is because the two systems are connected. It is the fast action of the nervous system in response to the danger in the environment that stimulates the adrenal glands to secrete their hormones. As a result, the nervous system can cause rapid endocrine responses to coordinate sudden changes in both the external and internal environments when necessary.</para><table id="eip-984" summary="This table compares the endocrine and nervous systems in term of the following: Signaling Mechanisms: Endocrine is chemical and neural is both chemical and electrical; Primary chemical signal: endocrine is hormones and neural is neurotransmitters; Distance traveled: endocrine is long or short and neural is always short; Response time: endocrine is fast or slow and neural is always fast; Environment targeted: endocrine is internal and neural is internal and external.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Comparison of Endocrine and Nervous Systems</entry>
+</row>
+<row>
+<entry/>
+<entry>Endocrine system</entry>
+<entry>Nervous system</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Signaling mechanism(s)</entry>
+<entry>Chemical</entry>
+<entry>Electrical/Chemical</entry>
+</row>
+<row>
+<entry>Primary chemical signal</entry>
+<entry>Hormones</entry>
+<entry>Neurotransmitters</entry>
+</row>
+<row>
+<entry>Distance chemical travels</entry>
+<entry>Long or short</entry>
+<entry>Always short</entry>
+</row>
+<row>
+<entry>Response time</entry>
+<entry>Fast or slow</entry>
+<entry>Always fast</entry>
+</row>
+<row>
+<entry>Environment targeted</entry>
+<entry>Internal</entry>
+<entry>Internal and external</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table></content>
+
+</document>

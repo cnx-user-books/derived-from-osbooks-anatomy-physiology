@@ -1,0 +1,300 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Synaptic Transmission and Neural Integration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61679</md:content-id>
+  <md:title>Synaptic Transmission and Neural Integration</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Distinguish between a chemical synapse and an electrical synapse</item>
+<item>Identify the components of a chemical synapse</item>
+<item>Describe the events occurring at the synapse</item>
+<item>Recall from previous material the properties of an ionotropic and metabotropic receptor and relate this knowledge to ligand gated channels on the postsynaptic membrane</item>
+<item>Discuss the mechanism of acetylcholine synthesis and degradation</item>
+<item>List the receptor types for acetylcholine</item>
+<item>Explain the mechanism for acetylcholine binding to nicotinic and metabotropic receptors</item>
+<item>List the receptor types for epinephrine and norepinephrine</item>
+<item>Discuss the affinities, second messenger system activation, and an example location for adrenergic receptors</item>
+<item>List the biogenic amines and discuss their importance</item>
+<item>Compare and contrast the receptor type, neurotransmitter elimination, and postsynaptic effect for each of the neurotransmitter systems</item>
+</list></md:abstract>
+  <md:uuid>5bf101a9-d303-40e2-9722-dc442884b778</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2056356">The previous section described the processes neurons employ to generate and propagate (conduct) an electrical signal down the axon. In this section we will look at how that electrical signal is transmitted to an adjacent neuron or effector cell, and how the effector cell transduces that signal into a response. This happens at the synapse.</para><section id="fs-id2056386">
+<title>Synapses</title>
+<para id="fs-id1271229">There are two types of connections between electrically active cells, electrical (gap) junctions and chemical synapses. In an <term>electrical junction</term> there is a direct connection between the two cells so that ions can pass directly from one cell to the next. When one cell is depolarized the joined cell also depolarizes as the ions diffuse between the cells. Because the electrical junction is an ion channel, it can transmit signals in both directions and can send both excitatory and inhibitory signals depending on the direction and type of ions flowing through the channels. At a <term>chemical synapse</term>, a signal ligand (called a neurotransmitter) is released from the presynaptic neuron which then binds to and activates a receptor on the postsynaptic cell. The chemically-gated channels at a given synapse on the postsynaptic membrane are all the same type, therefore a chemical synapse is either excitatory or inhibitory, but not both, and the signal is transmitted in one direction, from the presynaptic to the postsynaptic cell. This section will concentrate on the chemical synapse.</para><para id="fs-id1987445">Chemical synapses can occur between a presynaptic and postsynaptic neuron or a neuron and an effector cell (a muscle or gland cell).  When chemical synapses occur between two neurons they are named based on the structures of the neurons that are involved in the synapse.  For example, an <emphasis>axodendritic synapse</emphasis> is a synapse that occurs between the axon of presynaptic neuron and the dendrite of the postsynaptic neuron. An <emphasis>axosomatic synapse</emphasis> occurs between the axon of the presynaptic neuron and the cell body of the postsynaptic neuron. An <emphasis>axoaxonic synapse</emphasis> is where an axon from a modulating neuron synapses with an axon terminal of another neuron, allowing modulation of the effect at that terminal, see <link target-id="fig-Presynaptic_Inhibition" document=""/>. When the synapse occurs between a neuron and an effector it is referred to as a <emphasis>neuroeffector junction</emphasis>. In the case of skeletal muscle the neuroeffector juntion is called a <emphasis effect="italics">neuromuscular junction</emphasis> (NMJ). Neuromuscular junctions will be discussed in more detail when we discuss muscles in <emphasis effect="italics"> Human Physiology Part III: Physical Movement and Defense</emphasis>.</para><para id="eip-331"><figure id="fig-Presynaptic_Inhibition"><media id="mid-Presynaptic_Inhibition" alt="This image shows multiple axon terminals from a single axon. An axon terminal from a different axon makes an axoaxonic connection at one of the axon terminals, releasing an inhibiting neurotransmitter. The two terminals not affected react normally, but the modulated terminal has a reduced response.">
+<image mime-type="image/jpg" src="../../media/Presynaptic_Inhibition.jpg" width="350"/>
+</media>
+ 
+<caption>An axoaxonic synapse allows modulation of the response at a single axon terminal without affecting the other axon terminals originating from that axon.</caption></figure></para><section id="eip-624"><title>Anatomy of a Synapse</title><para id="eip-176">The general anatomy of a synapse can be described by the following features: 
+</para><list id="eip-52"><title>Presynaptic Neuron (axon terminal)</title><item><emphasis>Voltage-gated Calcium Channels:</emphasis> are located on the membrane of the presynaptic axon terminal. These channels open when the axon terminal membrane is depolarized by the arrival of an action potential.</item>
+<item><emphasis>Calcium:</emphasis> There is a higher concentration of calcium in the ECF than ICF. As calcium ions diffuse through voltage-gated channels into the ICF, they initiate a process that causes fusion of the synaptic vesicles with the terminal membrane and results in exocytosis of neurotransmitter into the synaptic cleft.</item>
+<item><emphasis>Synaptic vesicles:</emphasis> Store the neurotransmitter until its release into the synaptic cleft.</item>
+<item><emphasis>Neurotransmitter:</emphasis> After synthesis via enzyme catalyzed reactions in the cytosol of the axon terminal, the neurotransmitter molecules are housed in the synaptic vesicles of the presynaptic neuron.</item>
+<item><emphasis>Reuptake channels:</emphasis> To be effective, the signal must be rapidly terminated. One mechanism is to remove the neurotransmitter, or some of the molecules from its degradation, from the synaptic cleft and return them to the presynaptic cytosol for recycling. Reuptake is an active transport process.</item></list><list id="eip-574"><title>Synaptic Cleft</title><item><emphasis>Neurotransmitter:</emphasis> when released into the cleft by the presynaptic neuron.</item>
+<item><emphasis>Floating neurotransmitter degradation enzymes:</emphasis> A second way to terminate a signal is degradation of the neurotransmitter by an enzyme. In some cases these degradation enzymes are secreted into the synaptic cleft.</item>
+</list><list id="eip-403"><title>Postsynaptic Neuron (Membrane)</title><item><emphasis>Ligand Receptors:</emphasis> Ligand receptors are located on the membrane of the cell bodies and dendrites of postsynaptic cells. You should recall that these receptors respond when a ligand, in this case the neurotransmitter, binds to the receptor. The receptors are either part of direct ligand-gated channel proteins or they activate G-proteins which then open or close channels that are part of a separate protein. Either way, the result generates or alters the membrane potential of the postsynaptic cell.</item>
+<item><emphasis>Ion channels:</emphasis> are directly or indirectly altered by neurotransmitter/receptor binding, allowing or inhibiting the entry or exit of specific ions.</item>
+<item><emphasis>Anchored neurotransmitter degradation enzymes:</emphasis> Perform the same functions as their floating counterparts but are attached to the postsynaptic membrane.</item>
+
+</list><para id="eip-376"><link target-id="fig-ch12_05_03" document=""/> shows a synapse between a presynaptic and postsynaptic neuron.</para><para id="eip-142"><figure id="fig-ch12_05_03">   
+<title>The Synapse</title>   
+<media id="fs-id2211208" alt="This diagram shows a postsynaptic neuron. An axon from a presynaptic neuron is synapsing with the dendrites on the post synaptic neuron. The axon of the presynaptic neuron branches into several club shaped axon terminals. A magnified view of one of the synapses reveals that the axon terminal does not contact the dendrite of the postsynaptic neuron. Instead, there is a small space between the two structures, called the synaptic cleft. The axon terminal of the presynaptic neuron contains several synaptic vesicles, each holding about a dozen neurotransmitter particles. The synaptic vesicles travel to the edge of the axon terminal and release their neurotransmitters into the synaptic clefts The neurotransmitters travel through the synaptic cleft and bind to carrier proteins on the postsynaptic neuron that contain receptors for neurotransmitters.">
+<image mime-type="image/jpg" src="../../media/1225_Chemical_Synapse2.jpg" width="480"/>
+</media>
+<caption>The synapse is a connection between a neuron and its postsynaptic cell. Ca<sup>2+</sup> enters the presynaptic axon terminal to cause vesicle fusion and neurotransmitter release. The neurotransmitter diffuses across the synaptic cleft to bind to its receptor. The neurotransmitter is cleared from the synapse either by enzymatic degradation, neuronal reuptake, or diffusion away from the cleft.</caption> 
+</figure>
+</para></section><section id="fs-id1272286">
+<title>Neurotransmitter Release</title>
+<para id="fs-id2211233">Now that you have the anatomy of the synapse, let’s focus in on the events occurring at the synapse. When an action potential reaches the axon terminals, voltage-gated Ca<sup>2+</sup> channels in the membrane of the axon terminal open. Calcium influx occurs causing the concentration of calcium to increase inside the axon terminal, and the Ca<sup>2+</sup> ions associate with proteins in the outer surface of neurotransmitter vesicles. The Ca<sup>2+</sup> facilitates the fusion of the vesicle with the presynaptic membrane so that the neurotransmitter is released through exocytosis into the small gap between the cells, the <term>synaptic cleft</term>. The number of vesicles that fuse to the membrane and release neurotransmitter is related to the amount of intracellular Ca<sup>2+</sup>. </para><para id="fs-id1953662">Once in the synaptic cleft, the neurotransmitter rapidly diffuses the short distance to the postsynaptic membrane and binds to receptors on that membrane. The postsynaptic receptors may either be part of a channel protein where binding opens the channel, or they may activate a G-protein that ultimately opens or closes a channel that is part of a separate protein. All the receptors and channels at a specific synapse are the same type and the neurotransmitter released at a synapse have a high affinity for those receptors on the postsynaptic membrane.</para><para id="eip-485">Once the stimulus is removed from the presynaptic neuron, vesicle fusion and neurotransmitter release stop. The neurotransmitter already in the synaptic cleft must be removed. This process is dependent on the specific neurotransmitter but may include enzymatic degradation, reuptake, and/or diffusion away from the synaptic cleft (<link target-id="fig-ch12_05_03" document=""/>). Receptor-ligand binding is a reversible process, so removal of the neurotransmitter from the cleft results in ligand disengagement from the receptor and return of the channels to their resting state.</para></section>
+<note id="eip-664"><label/>
+<media id="fs-id1739411" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/neurotrans.png" width="120"/>
+</media>
+<para id="fs-id1739421">Watch this <link url="http://openstaxcollege.org/l/neurotrans">video</link> to learn about the release of a neurotransmitter. The action potential reaches the end of the axon, called the axon terminal, and a chemical signal is released to tell the target cell to do something—either to initiate a new action potential, or to suppress that activity. In a very short space, the electrical signal of the action potential is changed into the chemical signal of a neurotransmitter and then back to electrical changes in the target cell membrane. What is the importance of voltage-gated calcium channels in the release of neurotransmitters?</para>
+</note><section id="fs-id1859928"><title>Neurotransmitters</title><para id="eip-676">Before beginning this section, you might want to review the <emphasis effect="italics">Types of Signal Molecules</emphasis> section in the <emphasis effect="italics">Cellular Communication</emphasis> chapter as neurotransmitters fall into the classes of signal molecules discussed there. This and future sections will expand on the applications of these classes of molecules.</para><para id="eip-463">Like other ligand signalling systems, the effect of the neurotransmitter is entirely dependent on the receptor. If there is no receptor protein in the membrane of the postsynaptic element, then the neurotransmitter has no effect. If there is a receptor, the effect, depolarizing or hyperpolarizing the membrane, is dependent on the receptor type and transduction pathway the receptor protein activates in that cell. Neurotransmitters bind to one of two classes of receptors at the cell surface, ionotropic or metabotropic (<link target-id="fig-ch12_05_04" document=""/>).  
+
+
+
+</para><para id="eip-733"><figure id="fig-ch12_05_04"><title>Receptor Types</title><media id="fs-id2248857" alt="This diagram contains two images, labeled A and B. Both images show a cross section of a postsynaptic membrane. There are two proteins embedded in each of the two membrane cross sections. In diagram A, direct activation brings about an immediate response. Here, both of the membrane proteins are ion channels. Several hexagonal neurotransmitters bind to ionotropic receptors on the extracellular fluid side of the channels. The binding of neurotransmitters causes the channels to open, allowing ions to flow from the extracellular fluid into the cytosol. Image B shows indirect activation, which involves a prolonged response, amplified over time. Here, one of the cell membrane proteins is solid while the other is a channel. Neurotransmitters bind to metabotropic receptors on the extracellular side of the solid protein. This triggers the solid protein to activate a G protein in the cytoplasm. The G protein binds to an effector protein in the cytoplasm, which results in the production of several second messenger particles. The second messenger activates enzymes that open the channel protein, allowing ions to enter the cytoplasm.">
+<image mime-type="image/jpg" src="../../media/1226_Receptor_Types.jpg" width="400"/>
+</media>
+ 
+<caption>(a) An ionotropic receptor is a channel that opens when the neurotransmitter binds to it. (b) A metabotropic receptor is a complex that causes metabolic changes in the cell when the neurotransmitter binds to it (1). After binding, the G protein hydrolyzes GTP and moves to the effector protein (2). When the G protein contacts the effector protein, a second messenger is generated, such as cAMP (3). The second messenger can then go on to cause changes in the neuron, such as opening or closing ion channels, metabolic changes, and changes in gene transcription.</caption></figure></para><para id="eip-758"><emphasis>Ionotropic receptors</emphasis> are ligand-gated ion channels. You should recall from the <emphasis effect="italics">Cellular Communication</emphasis> chapter that this means the receptor is part of the channel protein. As a result, these channels are often referred to as <emphasis effect="italics">fast</emphasis> due to their quick opening when the ligand binds. The neurotransmitter opens the channel, which alters the electrical properties of the adjacent cell membrane. Examples of ionotropic receptors include the excitatory nicotinic receptors for acetylcholine and the inhibitory glycine receptors. </para><para id="eip-633"><emphasis>Metabotropic receptors</emphasis> on the other hand are G-protein-gated channels with the receptor and the ion channel on separate proteins. They are called metabotropic because metabolic action is required for the receptor to communicate with the ion channel. Recall that the G stands for guanosine and the G-protein is a complex of three subunits, alpha, beta, and gamma which are activated when the GDP is replaced by a GTP. When activated one of two things may happen depending on the transduction pathway in the cell, direct coupling of a G-protein subunit to the channel, or activation of a second messenger. Direct coupling will result in the opening or closing of ion channels which alters the electrical charge of the cell membrane; whereas, activation of a second messenger could entail opening or closing of ion channels along with other cell activities like activating transcription factors. </para><para id="eip-907">The communication between the two proteins results in a slower response time than an ionotropic receptor. Therefore, metabotropic receptors are often called <emphasis effect="italics">slow</emphasis> receptors. When the ligand binds to the receptor it activates a G-protein. Examples of metabotropic receptors include the muscarinic receptor for acetylcholine and the adrenergic receptors.</para><para id="fs-id2211430">The <term>cholinergic system</term> was not discussed specifically in the <emphasis effect="italics">Cellular Communication</emphasis> chapter. This system is based on acetylcholine (ACh); a hydrophilic signaling molecule not based on amino acids. Acetylcholine is an important neurotransmitter involved in both the central and peripheral nervous systems. Centrally it is involved in maintaining arousal, attention, and motivation. Peripherally it is an important neurotransmitter in both the voluntary and autonomic nervous systems.   </para><para id="eip-929">Acetylcholine is synthesized in the axon terminal of presynaptic neurons from two substrates, acetyl CoA and choline via choline acetyl transferase (CAT). Acetylcholine is broken down when it binds to the enzyme acetylcholinesterase (AChE) which is located on either the presynaptic or postsynaptic membranes. Recall from the <emphasis effect="italics">Cellular Respiration</emphasis> chapter that Acetyl CoA is a two-carbon molecule produced as a result of pyruvate oxidation during cellular respiration.  Choline however, cannot be synthesized and must be obtained from our diet. When acetylcholine is degraded the products are acetate and choline.  Choline is conserved using reuptake molecules on the presynaptic neuron to be used in the synthesis of more acetylcholine; acetate diffuses away from the synapse and enters the blood.</para><para id="eip-747">Acetylcholine binds to both ionotropic and metabotropic receptors. When acetylcholine binds to its ionotropic receptor, called a nicotinic receptor, the postsynaptic cell is depolarized. This is because the receptor is a cation channel so both sodium influx and potassium efflux occurs. Because more sodium enters the cell than K<sup>+</sup> leaving, the net effect is depolarization. However, when acetylcholine binds to its metabotropic receptor, called a muscarinic receptor (of which there are several variants) it might cause either depolarization or hyperpolarization of the target cell depending on the specific transduction pathway available in that target cell.</para><para id="fs-id1301668">The <term>nicotinic receptor</term>, a type of ionotropic receptor, is found at Neuro-Muscular Junctions (NJM), on the postganglionic neurons of the autonomic nervous system, and at other synapses in the body. The <term>muscarinic receptor</term>, a type of metabotropic (G-protein) receptor, is found at parasympathetic-effector junctions and other synapses. Both of these receptors are named for drugs that bind to their specific acetylcholine receptor type. Nicotine binds to the nicotinic receptor. Muscarine, a poisonous product of certain mushrooms, binds to the muscarinic receptor. Note that nicotine will not bind to a muscarinic receptor and muscarine will not bind to a nicotinic receptor.</para><para id="eip-31">To summarize what was stated above, the effect of acetylcholine on the postsynaptic element is entirely dependent on the receptor protein and the transduction pathway it activates in the postsynaptic cell. If there is no receptor protein in the membrane of the postsynaptic element, then the neurotransmitter has no effect. The effect, depolarizing or hyperpolarizing the membrane, also is dependent on the receptor type and the active pathways in the target cell. When acetylcholine binds to a nicotinic receptor, the postsynaptic cell is depolarized. However, when acetylcholine binds to a muscarinic receptor, it might cause depolarization or hyperpolarization of the target cell, as well as other cellular responses, depending on the specific transduction pathways available in the target cell.</para><para id="fs-id2073774"><emphasis>Amino acids</emphasis> are another class of neurotransmitters that were discussed in the <emphasis effect="italics">Cellular Communication</emphasis> chapter. These are important neurotransmitters in the central nervous system. The four amino acids that act as neurotransmitters are glutamate (Glu) and aspartate (Asp), which both activate excitatory receptors, and GABA (gamma-aminobutyric acid, a derivative of glutamate) and glycine (Gly), which activate inhibitory receptors. These amino acids have an amino group and a carboxyl group in their chemical structures. Glutamate also is one of the 20 amino acids that are used to make proteins. Each amino acid neurotransmitter is part of its own system, namely the glutamatergic, aspartategic, GABAergic, and glycinergic systems. They each have their own receptors, although aspartate seems to target glutamatergic receptors generating a similar but less potent effect. Amino acid neurotransmitters are removed from the synapse by reuptake. A pump in the cell membrane of the presynaptic element, or sometimes a neighboring glial cell, will clear the amino acid from the synaptic cleft so that it can be recycled, repackaged in vesicles, and released again.</para><para id="eip-481">The amino acid neurotransmitters are almost exclusively associated with just one effect. Glutamate and aspartate are considered excitatory amino acids, because their receptors in the adult cause depolarization of the postsynaptic cell. Glycine and GABA are considered inhibitory amino acids, again because their receptors cause hyperpolarization. Glutamate is generally acknowledged as the most important neurotransmitter for normal brain function. Nearly all the excitatory neurons in the CNS are glutamatergic, and it is estimated that over half of all brain synapses release glutamate. The NMDA receptor that appears to be critical for the synaptic plasticity allowing memory and learning is a glutamate receptor. These NMDA receptors also are affected by many psychoactive drugs and appear to be responsible for their psychogenic effects. Aspartate appears to act on the same receptors as glutamate, but with less potency. </para><para id="fs-id1987875"><term>Biogenic amines</term>, another class of neurotransmitter discussed in the <emphasis effect="italics">Cellular Communication</emphasis> chapter, are made enzymatically from amino acids. They have amino groups in them, but no longer have carboxyl groups and are therefore no longer classified as amino acids. Biogenic amines play an important role in behavior and mental illness (i.e., bipolar disorder Schizophrenia, and depression.) </para><para id="eip-927">The biogenic amines have mixed effects. For example, the dopamine receptors that are classified as D1 receptors are excitatory whereas D2-type receptors are inhibitory. Biogenic amine receptors and neuropeptide receptors can have even more complex effects because some may not directly affect the membrane potential, but through their second messenger activation have an effect on gene transcription or other metabolic processes in the neuron. </para><para id="eip-515"><emphasis effect="italics">Serotonin</emphasis> is a biogenic amine made from tryptophan. It is the basis of the serotonergic system in the central nervous system, which has its own specific receptors. Serotonin is important in regulating sleep and our emotions. Serotonin is removed from the synapse by reuptake back into the presynaptic cell for repackaging. Antidepressants known as SSRIs (Selective Serotonin Reuptake Inhibitors), like the drug Prozac, block these reuptake channels prolonging the effect of serotonin in the synapse.</para><para id="fs-id1987885"><emphasis effect="italics">Catecholamines</emphasis>: <emphasis effect="italics">dopamine</emphasis>, <emphasis effect="italics">norepinephrine</emphasis>, and <emphasis effect="italics">epinephrine</emphasis> are biogenic amines made from tyrosine. Dopamine is part of its own system, the dopaminergic system, which has dopamine receptors. Dopamine is removed from the synapse by transport proteins in the presynaptic cell membrane. Norepinephrine and epinephrine belong to the <emphasis effect="italics">adrenergic</emphasis> neurotransmitter system. The two molecules are very similar and bind to the same receptors, which are referred to as alpha and beta adrenergic receptors. Norepinephrine and epinephrine are also actively transported back into the presynaptic cell. The chemical epinephrine (epi- = “on”; “-nephrine” = kidney) is also known as adrenaline (renal = “kidney”), and norepinephrine is sometimes referred to as noradrenaline. Recall that the adrenal gland produces epinephrine and norepinephrine to be released into the blood stream as hormones.</para><para id="eip-141">There are five different adrenergic receptors.  Both epinephrine and norepinephrine bind to these receptors; however, their affinities may vary as well as the location of these receptors and the second messenger system activated as a result of the neurotransmitter binding (<link target-id="eip-217" document=""/>).</para><table id="eip-217" summary="Lists the five adernergic receptor, their affinities to bind epinephrine and norepinephrine, their functions, and tissues the receptors can be find in."><title>The Adernergic Receptors</title>
+<tgroup cols="4"><tbody>
+  <row>
+    <entry>Receptor</entry>
+    <entry>Affinity</entry>
+    <entry>Function</entry>
+    <entry>Tissues</entry>
+  </row>
+  <row>
+    <entry>Alpha-one</entry>
+    <entry>NE&gt;E</entry>
+    <entry>Activates IP<sub>3</sub></entry>
+    <entry>Vascular smooth muscles, pupils</entry>
+  </row>
+  <row>
+    <entry>Alpha-two</entry>
+    <entry>NE&gt;E</entry>
+    <entry>Blocks cAMP production</entry>
+    <entry>CNS, platelets, vascular smooth muscle, adipose </entry>
+  </row>
+  <row>
+    <entry>Beta-one</entry>
+    <entry>NE=E</entry>
+    <entry>Activates cAMP</entry>
+    <entry>CNS, cardiac, kidney</entry>
+  </row>
+  <row>
+    <entry>Beta-two</entry>
+    <entry>E&gt;NE</entry>
+    <entry>Activates cAMP</entry>
+    <entry>Some blood vessels, respiratory tract, uterus</entry>
+  </row>
+  <row>
+    <entry>Beta-three</entry>
+    <entry>NE=E</entry>
+    <entry>Activates cAMP</entry>
+    <entry>Adipose, detrusor muscle</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><para id="eip-429">Note that the effect of cAMP varies with the tissue type and anatomical location. Generally, an increase in cAMP will result in relaxation of smooth muscle (although there are exceptions) while it will increase contractility and heart rate in cardiac muscle. Additionally, increasing cAMP stimulates lypolysis in adipose cells and activates platelets in the blood.</para><para id="eip-668"><emphasis effect="italics">Histamine</emphasis> is another biogenic-amine neurotransmitter.  Histamine is derived from the amino acid, histidine. As a neurotransmitter, histamine plays a role in the hypothalamus by increasing wakefulness and inhibiting sleep. While histamine is important in many different body systems, it probably is best known as a paracrine ligand that triggers allergy symptoms. Many antihistamines targeting allergy symptoms also affect the neurotransmitter functions, which is why a side effect is drowsiness.</para><para id="fs-id1258863"><term>Neuropeptides</term> are neurotransmitter molecules made up of chains of amino acids connected by peptide bonds. This is what a protein is, but the term protein implies a certain length to the molecule. Some neuropeptides are quite short, such as met-enkephalin, which is five amino acids long. Others are long, such as beta-endorphin, which is 31 amino acids long. Neuropeptides are often released at synapses in combination with another neurotransmitters, and they often act as hormones in other systems of the body, such as antidiuretic hormone, oxytocin, thyrotropin releasing hormone (TRH), and corticotropin releasing hormone (CRH).</para><para id="eip-826">The characteristics of the various neurotransmitter systems presented in this section are summarized in <link target-id="tbl-ch12_03" document=""/>.</para><table id="tbl-ch12_03" summary="Describes the characteristics of neurotransmitter systems.">
+<tgroup cols="5" align="left"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">Characteristics of Neurotransmitter Systems</entry>
+</row>
+<row>
+<entry>System</entry>
+<entry>Cholinergic</entry>
+<entry>Amino acids</entry>
+<entry>Biogenic amines</entry>
+<entry>Neuropeptides</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Neurotransmitters</entry>
+<entry>Acetylcholine</entry>
+<entry>Glutamate, aspartate, glycine, GABA</entry>
+<entry>Serotonin (5-HT), dopamine, norepinephrine, (epinephrine), histamine</entry>
+<entry>Met-enkephalin, beta-endorphin, VIP, Substance P, etc.</entry>
+</row>
+<row>
+<entry>Receptors</entry>
+<entry>Nicotinic and muscarinic receptors</entry>
+<entry>Glu receptors, gly receptors, GABA receptors</entry>
+<entry>5-HT receptors, D1 and D2 receptors, α-adrenergic and β-adrenergic receptors</entry>
+<entry>Receptors are too numerous to list, but are specific to the peptides.</entry>
+</row>
+<row>
+<entry>Elimination</entry>
+<entry>Degradation by acetylcholinesterase</entry>
+<entry>Reuptake by neurons or glia</entry>
+<entry>Reuptake by neurons</entry>
+<entry>Degradation by enzymes called peptidases</entry>
+</row>
+<row>
+<entry>Postsynaptic effect</entry>
+<entry>Nicotinic receptor causes depolarization. Muscarinic receptors can cause either depolarization or hyperpolarization depending on the subtype.</entry>
+<entry>Glu receptors (also activated by Asp) cause depolarization. Gly and GABA receptors cause hyperpolarization.</entry>
+<entry>Depolarization or hyperpolarization depends on the specific receptor. For example, D1 receptors cause depolarization and D2 receptors cause hyperpolarization.</entry> 
+<entry>Depolarization or hyperpolarization depends on the specific receptor.</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><note id="fs-id722894" class="anatomy disorders">
+<label/>
+<title>Disorders of the…</title>
+<para id="fs-id1501156"><title>Nervous System</title>The underlying cause of some neurodegenerative diseases, such as Alzheimer’s and Parkinson’s, appears to be related to proteins—specifically, to proteins behaving badly. One of the strongest theories of what causes Alzheimer’s disease is based on the accumulation of beta-amyloid plaques, dense conglomerations of a protein that is not functioning correctly. Parkinson’s disease is linked to an increase in a protein known as alpha-synuclein that is toxic to the cells of the substantia nigra nucleus in the midbrain.</para><para id="fs-id1493614">For proteins to function correctly, they are dependent on their three-dimensional shape. The linear sequence of amino acids folds into a three-dimensional shape that is based on the interactions between and among those amino acids. When the folding is disturbed, and proteins take on a different shape, they stop functioning correctly. But the disease is not necessarily the result of functional loss of these proteins; rather, these altered proteins start to accumulate and may become toxic. For example, in Alzheimer’s, the hallmark of the disease is the accumulation of these amyloid plaques in the cerebral cortex. The term coined to describe this sort of disease is “proteopathy” and it includes other diseases. Creutzfeld-Jacob disease, the human variant of the prion disease known as mad cow disease in the bovine, also involves the accumulation of amyloid plaques, similar to Alzheimer’s. Diseases of other organ systems can fall into this group as well, such as cystic fibrosis or type 2 diabetes. Recognizing the relationship between these diseases has suggested new therapeutic possibilities. Interfering with the accumulation of the proteins, and possibly as early as their original production within the cell, may unlock new ways to alleviate these devastating diseases.</para>
+</note>
+</section></section>
+<section id="eip-922"><title>Combining Neurons Into Networks</title><para id="eip-332">In the section on Action Potentials we discussed how an individual neuron integrates the input from other neurons and sensory cells and responds either by generating an action potential or remaining quiet. The basis of higher level sensory integration and response is the ability to combine neuron outputs and inputs into logical patterns or networks. This allows better discrimination of changes in the environment and more nuanced responses. These neuronal networks also form the physical basis of higher level functions like memory and learning.
+</para><para id="eip-69">Multiple terminals from a single axon can form synapses with the same postsynaptic neuron. The number of synapses determines the strength of the connection between two neurons. The strength of the connection increases because an action potential is propagated to all of the axon's terminals. If there are enough synapses from a single axon the spacial summation can insure that the postsynaptic membrane will reach threshold. Postsynaptic neurons with enough connections from a single neuron to reach threshold are said to be in the <emphasis>discharge zone</emphasis> of that presynaptic neuron. Those with weaker connections (fewer single-axon synapses) are referred to as being in the <emphasis>facilitated zone</emphasis> because while one presynaptic neuron can facilitate moving the postsynaptic membrane potential toward threshold, it requires synapses from other neurons for the membrane to actually reach threshold. The more connections a single neuron has with a postsynaptic neuron, the more likely its signal will be propagated to the next level in the network when that neuron fires <link target-id="fig-Disharge_Zone" document=""/>. </para><para id="eip-484"><figure id="fig-Disharge_Zone"><media id="mid-Disharge_Zone" alt="This image shows a single presynaptic neuron with multiple axon terminals making synapses with several postsynaptic neurons. There are more individual synapses with some post synaptic neurons than with others. Those with the most synapses are in what is called the discharge zone. Those with fewer synapses are in what is called the facilitated zone.">
+<image mime-type="image/jpg" src="../../media/Disharge_Zone.jpg" width="400"/>
+</media>
+ 
+<caption>The postsynaptic neurons with the most synapses are in the discharge zone, because a single presynaptic action potential will activate enough synapses to bring them to threshold. The postsynaptic neurons with fewer synapses are in the facilitated zone, because a single presynaptic action potential will not bring them to threshold. However, it will cause a graded potential that, with the assistance of synapses from other presynaptic neurons, will facilitate movement toward threshold.</caption></figure></para><para id="eip-347">The various combinations of neuronal connections are immense. Like the logic circuits of a computer, these neuronal circuits perform very specific processing activities. In turn, these simple modules can be combined in different combinations to perform specific higher-level processing modules. This hierarchy of modular processing ultimately reaches the levels of complexity that make up our higher level cognitive functioning. We will discuss only a few of the low level connection patterns below <link target-id="fig-Neuron_Networks" document=""/>.  </para><para id="eip-379"><figure id="fig-Neuron_Networks"><media id="mid-Neuron_Networks" alt="This image shows several basic patterns for linking neurons together. The first pattern shows a simple feed forward chain where each neuron influences the next neuron in the chain. The second pattern shows a basic feedback or reverberating loop where a neuron later in the chain influences a neuron earlier in the chain. The third pattern shows a convergent-divergent pattern. In convergence the output of several neurons converge on a single interneuron. In divergence a single interneuron provides output to multiple neurons. The fourth pattern shows a parallel after discharge chain where a neuron early in the chain diverges to stimulate more than one chain of neurons each running in parallel to the same target. Further down the chain these parallel chains converge back to influence the target neuron in the original chain. The final pattern shows lateral inhibition. Here the output of the originating neuron diverges with one path continuing to the target while others stimulate neurons that inhibit nearby neurons. These are primarily found in sensory processing to help discriminate edges and sharp contrasts in input.">
+<image mime-type="image/jpg" src="../../media/Neuron_Networks.jpg" width="550"/>
+</media>
+ 
+<caption>This figure shows a few basic logic circuits that can be created by connecting neurons into different patterns. Note that the same basic pattern can be constructed with either excitatory or inhibitory interneurons at various locations. This increases the diversity of processing possibilities.</caption></figure></para><para id="eip-46">The general concepts of feed forward and feedback systems were discussed in the first chapter <emphasis effect="italics">Introduction to Human Physiology</emphasis>. We also have covered many of these general regulatory mechanisms in subsequent chapters. However, if you feel you have not mastered these concepts you might find a quick review of <emphasis effect="italics">Introduction to Human Physiology</emphasis> useful. The basic neural circuits are all variants of the cause and effect processes introduced earlier.</para><para id="eip-246">The concept of a <emphasis>Feed Forward</emphasis> system forms the basis of all processing. It is basically a processing chain where the neurons earlier in the chain influence those later in the chain. Because a single neuron generally has many axon terminals, neurons at each level of the chain can signal multiple neurons below it in the chain (see divergence below). In its pure form this would create a hierarchical network. It is feed forward because all the signals travel in the same direction without a feedback circuit.</para><para id="eip-72"><emphasis>Feedback</emphasis> happens when a neuron further down the chain synapses either directly, or through one or more interneurons, with a neuron earlier in the chain. If the feedback is excitatory the effect is a self-stimulating amplification in the circuit referred to as reverberation. <emphasis>Reverberating</emphasis> circuits help sustain a response and a similar concept in digital logic is used in solid-state memory devices. If the feedback is inhibitory, the effect is self damping and helps to reduce the response.</para><para id="eip-865"><emphasis>Convergence</emphasis> occurs when multiple presynaptic neurons synapse with (converge on) the same postsynaptic neuron. Functionally this is how input from multiple sources is integrated into a single response. <emphasis>Divergence</emphasis> occurs when a single presynaptic neuron synapses with (diverges to) multiple postsynaptic neurons. Functionally this is how widespread neural signalling occurs. A number of specific areas of the brain have been identified that have unusually high concentrations of both convergent and divergent inputs and outputs. Many are areas where multi-sensory integration and response take place, and they have been suggested as key brain areas involved in generating consciousness and self awareness.</para><para id="eip-741"><emphasis>Parallel After Discharge</emphasis> circuits are a feed forward mechanism for enhancing or amplifying an effect. Unlike a feedback system which affect neurons earlier in the chain, after discharge systems affect neurons further down the chain. In these circuits, the presynaptic neuron diverges to multiple postsynaptic neurons. These neurons, or their chains, ultimately converge back onto a neuron further down the original chain. The ultimate effect can be either stimulatory or inhibitory depending on the types of neurons in the parallel chains. </para><para id="eip-842"><emphasis>Lateral Inhibition</emphasis>, is common in some sensory circuits, particularly those involved in vision. The axons of the main presynaptic neurons in these circuits diverge to stimulate both an excitatory chain of neurons and a set of inhibitory neurons. The inhibitory neurons hyperpolarize the membranes of the presynaptic neurons immediately around the stimulated neuron. By inhibiting competing input from the surrounding neurons the brain is better able to accentuate the point of strongest stimulation making it easier to identify contrasting edges and boundaries. </para></section><section id="fs-id1862560" class="summary">
+<title>Section Review</title><para id="fs-id2286155"><emphasis>Synapses</emphasis> are the contacts between neurons, which can either be chemical or electrical in nature. <emphasis>Chemical synapses</emphasis> are far more common than <emphasis>electrical junctions</emphasis>. At a chemical synapse, neurotransmitter is released from the presynaptic element and diffuses across the synaptic cleft. The neurotransmitter binds to a receptor protein and causes a change in the postsynaptic membrane (the PSP). The neurotransmitter must be inactivated or removed from the synaptic cleft so that the stimulus is limited in time.</para><para id="fs-id1639673">The particular characteristics of a synapse vary based on the neurotransmitter system produced by that neuron. The <emphasis>cholinergic system</emphasis> is found at the neuromuscular junction, in the autonomic nervous system, and in certain places within the body. Four <emphasis>amino acids</emphasis>: glutamate, aspartate, gamma-aminobutyric acid (GABA), and  glycine  are used as neurotransmitters. Other neurotransmitters are the result of amino acids being enzymatically changed, as in the <emphasis>biogenic amines</emphasis>, or being covalently bonded together, as in the <emphasis>neuropeptides</emphasis>.</para><para id="eip-278">Neuronal connections can be networked in patterns that allow for more sensitive discrimination of inputs about the environment, more nuanced responses, and higher level functions like memory and learning. Multiple axon terminals from a single axon can form synapses with a postsynaptic neuron. The number of synapses determines the strength of the connection between two neurons. Because an action potential is propagated to all of these terminals, if there are enough synapses from a single axon the spacial summation can insure that the postsynaptic membrane will reach threshold. Postsynaptic neurons with this type of connection are referred to as being in the <emphasis>discharge zone</emphasis> of the presynaptic neuron. Those with weaker connections are referred to as being in the <emphasis>facilitated zone</emphasis></para><para id="eip-1000">There are many different patterns of <emphasis>neuronal network connections</emphasis> that underlie the processing logic of all neural activity. Some common connection patterns are: <emphasis>feed forward</emphasis>, <emphasis>feedback/reverberating</emphasis>, <emphasis>parallel after discharge</emphasis>, <emphasis>convergent</emphasis>, <emphasis>divergent</emphasis>, and <emphasis>lateral inhibition</emphasis>.</para></section>
+<section id="fs-id1639680" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1639687">
+<problem id="fs-id1639689"><para id="fs-id1530911">Watch this <link url="http://openstaxcollege.org/l/summation">video</link> to learn about summation. The process of converting electrical signals to chemical signals and back requires subtle changes that can result in transient increases or decreases in membrane voltage. To cause a lasting change in the target cell, multiple signals are usually added together, or summated. Does spatial summation have to happen all at once, or can the separate signals arrive on the postsynaptic neuron at slightly different times? Explain your answer.</para></problem>
+<solution id="fs-id2543279">
+<label/>
+<para id="fs-id2543284">A second signal from a separate presynaptic neuron can arrive slightly later, as long as it arrives before the first one dies off, or dissipates.</para></solution>
+</exercise>
+<exercise id="fs-id2543289">
+<problem id="fs-id2543291">
+<para id="fs-id2543293">Watch this <link url="http://openstaxcollege.org/l/neurotrans">video</link> to learn about the release of a neurotransmitter. The action potential reaches the end of the axon, called the axon terminal, and a chemical signal is released to tell the target cell to do something, either initiate a new action potential, or to suppress that activity. In a very short space, the electrical signal of the action potential is changed into the chemical signal of a neurotransmitter, and then back to electrical changes in the target cell membrane. What is the importance of voltage-gated calcium channels in the release of neurotransmitters?</para></problem>
+<solution id="fs-id2317982">
+<label/>
+<para id="fs-id2317987">The action potential depolarizes the cell membrane of the axon terminal, which contains the voltage-gated Ca<sup>2+</sup> channel. That voltage change opens the channel so that Ca<sup>2+</sup> can enter the axon terminal. Calcium ions make it possible for synaptic vesicles to release their contents through exocytosis.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1230531" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1859771">
+<problem id="fs-id1099364"><para id="fs-id1015571">How much of a change in the membrane potential is necessary for the summation of postsynaptic potentials to result in an action potential being generated?</para>
+<list id="fs-id1230543" list-type="enumerated" number-style="lower-alpha">
+<item>+30 mV</item>
+<item>+15 mV</item>
+<item>+10 mV</item>
+<item>-15 mV</item>
+</list>
+</problem>
+<solution id="fs-id1497364">
+<label/>
+<para id="fs-id912818">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id890519">
+<problem id="fs-id2167220"><para id="fs-id1494511">A channel opens on a postsynaptic membrane that causes a negative ion to enter the cell. What type of graded potential is this?</para>
+<list id="fs-id1493303" list-type="enumerated" number-style="lower-alpha">
+<item>depolarizing</item>
+<item>repolarizing</item>
+<item>hyperpolarizing</item>
+<item>non-polarizing</item>
+</list>
+</problem>
+<solution id="fs-id1164823">
+<label/>
+<para id="fs-id1404772">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1828568">
+<problem id="fs-id2190800"><para id="fs-id1527310">What neurotransmitter is released at the neuromuscular junction?</para>
+<list id="fs-id1104180" list-type="enumerated" number-style="lower-alpha">
+<item>norepinephrine</item>
+<item>serotonin</item>
+<item>dopamine</item>
+<item>acetylcholine</item>
+</list>
+</problem>
+<solution id="fs-id1452835">
+<label/>
+<para id="fs-id963410">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1532169">
+<problem id="fs-id1943845"><para id="fs-id1272928">What type of receptor requires an effector protein to initiate a signal?</para>
+<list id="fs-id1113884" list-type="enumerated" number-style="lower-alpha">
+<item>biogenic amine</item>
+<item>ionotropic receptor</item>
+<item>cholinergic system</item>
+<item>metabotropic receptor</item></list>
+</problem>
+<solution id="fs-id1179935">
+<label/><para id="fs-id1334770">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2317736">
+<problem id="fs-id1144077"><para id="fs-id1944092">Which of the following neurotransmitters is associated with inhibition exclusively?</para>
+<list id="fs-id1183736" list-type="enumerated" number-style="lower-alpha">
+<item>GABA</item>
+<item>acetylcholine</item>
+<item>glutamate</item>
+<item>norepinephrine</item></list>
+</problem>
+<solution id="fs-id1211547">
+<label/>
+<para id="fs-id1543381">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1716294" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id891267">
+<problem id="fs-id1451945"><para id="fs-id1531347">If a postsynaptic cell has synapses from five different cells, and three cause EPSPs and two of them cause IPSPs, give an example of a series of depolarizations and hyperpolarizations that would result in the neuron reaching threshold.</para></problem>
+<solution id="fs-id1512606"><label/>
+<para id="fs-id1143996">EPSP1 = +5 mV, EPSP2 = +7 mV, EPSP 3 = +10 mV, IPSP1 = -4 mV, IPSP2 = -3 mV. 5 + 7 + 10 – 4 – 3 = +15 mV.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1188256">
+<problem id="fs-id1138838"><para id="fs-id1955545">Why is the receptor the important element determining the effect a neurotransmitter has on a target cell?</para></problem>
+<solution id="fs-id2168882"><label/>
+<para id="fs-id1868224">Different neurotransmitters have different receptors. Thus, the type of receptor in the postsynaptic cell is what determines which ion channels open. Acetylcholine binding to the nicotinic receptor causes cations to cross the membrane. GABA binding to its receptor causes the anion chloride to cross the membrane.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1598351"><term>biogenic amine</term> <meaning id="fs-id1598356">class of neurotransmitters that are enzymatically derived from amino acids but no longer contain a carboxyl group</meaning></definition>
+<definition id="fs-id1598360"><term>chemical synapse</term> <meaning id="fs-id1492577">connection between two neurons, or between a neuron and its target, where a neurotransmitter diffuses across a very short distance</meaning></definition>
+<definition id="fs-id1103469"><term>cholinergic system</term> <meaning id="fs-id1117467">neurotransmitter system of acetylcholine, which includes its receptors and the enzyme acetylcholinesterase</meaning></definition>
+<definition id="fs-id1262290"><term>effector protein</term> <meaning id="fs-id1504030">enzyme that catalyzes the generation of a new molecule, which acts as the intracellular mediator of the signal that binds to the receptor</meaning></definition>
+<definition id="fs-id690504"><term>electrical synapse</term> <meaning id="fs-id1667430">connection between two neurons, or any two electrically active cells, where ions flow directly through channels spanning their adjacent cell membranes</meaning></definition>
+<definition id="fs-id1283309"><term>excitatory postsynaptic potential (EPSP)</term> <meaning id="fs-id1495328">graded potential in the postsynaptic membrane that is the result of depolarization and makes an action potential more likely to occur</meaning></definition>
+<definition id="fs-id1177244"><term>generator potential</term> <meaning id="fs-id1812704">graded potential from dendrites of a unipolar cell which generates the action potential in the initial segment of that cell’s axon</meaning></definition>
+<definition id="fs-id1524473"><term>G protein</term> <meaning id="fs-id1510472">guanosine triphosphate (GTP) hydrolase that physically moves from the receptor protein to the effector protein to activate the latter</meaning></definition>
+<definition id="fs-id1199300"><term>inhibitory postsynaptic potential (IPSP)</term> <meaning id="fs-id1857259">graded potential in the postsynaptic membrane that is the result of hyperpolarization and makes an action potential less likely to occur</meaning></definition>
+<definition id="fs-id1491206"><term>metabotropic receptor</term> <meaning id="fs-id793857">neurotransmitter receptor that involves a complex of proteins that cause metabolic changes in a cell</meaning></definition>
+<definition id="fs-id1667047"><term>muscarinic receptor</term> <meaning id="fs-id1229076">type of acetylcholine receptor protein that is characterized by also binding to muscarine and is a metabotropic receptor</meaning></definition>
+<definition id="fs-id1505883"><term>neuropeptide</term> <meaning id="fs-id839338">neurotransmitter type that includes protein molecules and shorter chains of amino acids</meaning></definition>
+<definition id="fs-id1037182"><term>nicotinic receptor</term> <meaning id="fs-id1124313">type of acetylcholine receptor protein that is characterized by also binding to nicotine and is an ionotropic receptor</meaning></definition>
+<definition id="fs-id1953890"><term>postsynaptic potential (PSP)</term> <meaning id="fs-id1666722">graded potential in the postsynaptic membrane caused by the binding of neurotransmitter to protein receptors</meaning></definition>
+<definition id="fs-id1501758"><term>receptor potential</term> <meaning id="fs-id981695">graded potential in a specialized sensory cell that directly causes the release of neurotransmitter without an intervening action potential</meaning></definition>
+<definition id="fs-id1966984"><term>spatial summation</term> <meaning id="fs-id1315607">combination of graded potentials across the neuronal cell membrane caused by signals from separate presynaptic elements that add up to initiate an action potential</meaning></definition>
+<definition id="fs-id1319646"><term>summate</term> <meaning id="fs-id1594430">to add together, as in the cumulative change in postsynaptic potentials toward reaching threshold in the membrane, either across a span of the membrane or over a certain amount of time</meaning></definition>
+<definition id="fs-id1241660"><term>synaptic cleft</term> <meaning id="fs-id1071660">small gap between cells in a chemical synapse where neurotransmitter diffuses from the presynaptic element to the postsynaptic element</meaning></definition>
+<definition id="fs-id1999667"><term>temporal summation</term> <meaning id="fs-id1540383">combination of graded potentials at the same location on a neuron resulting in a strong signal from one input</meaning></definition>
+</glossary>
+</document>
