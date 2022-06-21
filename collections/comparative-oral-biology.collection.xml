@@ -1,0 +1,45 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12114</md:content-id>
+    <md:title>Comparative Oral Biology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>54cc79ff-acc5-4c89-97ce-1a2263f3d489</md:uuid>
+<md:slug>comparative-oral-biology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m63588"/>
+    <col:subcollection>
+      <md:title>Origin and development</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Respiration and olfaction</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ingestion and gustation</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mastication</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Salivation</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Swallowing</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Voice</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hearing</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>
