@@ -1,11 +1,11 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
 
-<title>Acid-Base Balance </title>
+<title>Acid-Base Balance</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46409</md:content-id>
-  <md:title>Acid-Base Balance </md:title>
-  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
-<list id="list-00001">
+  <md:title>Acid-Base Balance</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Identify the most powerful buffer system in the body</item>
 <item>Explain the way in which the respiratory system affects blood pH</item>
 </list></md:abstract>
@@ -33,9 +33,12 @@
 <title>Phosphate Buffer</title>
 <para id="fs-id1882970">Phosphates are found in the blood in two forms: sodium dihydrogen phosphate (<m:math>
  <m:mrow>
+  <m:msub>
    <m:mrow>
     <m:mtext>Na</m:mtext>
    </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
   <m:msub>
    <m:mtext>H</m:mtext>
    <m:mn>2</m:mn>
@@ -46,8 +49,12 @@
    </m:mrow>
    <m:mn>4</m:mn>
   </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
  </m:mrow>
-</m:math>), which is a weak acid, and sodium monohydrogen phosphate (<m:math>
+</m:math>), which is a weak acid, and sodium monohydrogen phosphate (<m:math display="left">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -55,17 +62,18 @@
    </m:mrow>
    <m:mtext>2</m:mtext>
   </m:msub>
-  <m:msub>
+  <m:msubsup>
    <m:mrow>
     <m:mtext>HPO</m:mtext>
    </m:mrow>
+   <m:mtext>4</m:mtext>
    <m:mrow>
-    <m:mtext>4</m:mtext>
+    <m:mtext>2-</m:mtext>
    </m:mrow>
- </m:msub>
-
+  </m:msubsup>
+  
  </m:mrow>
-</m:math>), which is a weak base. When <m:math>
+</m:math>), which is a weak base. When <m:math display="left">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -73,22 +81,26 @@
    </m:mrow>
    <m:mtext>2</m:mtext>
   </m:msub>
-  <m:msub>
+  <m:msubsup>
    <m:mrow>
     <m:mtext>HPO</m:mtext>
    </m:mrow>
+   <m:mtext>4</m:mtext>
    <m:mrow>
-    <m:mtext>4</m:mtext>
+    <m:mtext>2-</m:mtext>
    </m:mrow>
- </m:msub>
-
+  </m:msubsup>
+  
  </m:mrow>
 </m:math>
  comes into contact with a strong acid, such as HCl, the base picks up a second hydrogen ion to form the weak acid <m:math>
  <m:mrow>
+  <m:msub>
    <m:mrow>
     <m:mtext>Na</m:mtext>
    </m:mrow>
+   <m:mn>2</m:mn>
+  </m:msub>
   <m:msub>
    <m:mtext>H</m:mtext>
    <m:mtext>2</m:mtext>
@@ -99,21 +111,30 @@
    </m:mrow>
    <m:mtext>4</m:mtext>
   </m:msub>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
  </m:mrow>
 </m:math> and sodium chloride, NaCl. When <m:math>
  <m:mrow>
+  <m:msub>
    <m:mrow>
     <m:mtext>Na</m:mtext>
    </m:mrow>
-  <m:msub>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:msubsup>
    <m:mrow>
     <m:mtext>HPO</m:mtext>
    </m:mrow>
-  <m:mrow>
    <m:mtext>4</m:mtext>
-  </m:mrow>
- </m:msub>
-
+   <m:mn>2</m:mn>
+  </m:msubsup>
+  <m:msup>
+   <m:mrow/>
+   <m:mo>−</m:mo>
+  </m:msup>
  </m:mrow>
 </m:math> (the weak acid) comes into contact with a strong base, such as sodium hydroxide (NaOH), the weak acid reverts back to the weak base and produces water. Acids and bases are still present, but they hold onto the ions.</para><equation id="eip-177"><m:math display="block">
  <m:mrow>
@@ -249,10 +270,10 @@
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
 <m:msub>
    <m:mrow>
-    <m:mtext>NaHCO</m:mtext>
+    <m:mtext>HCO</m:mtext>
    </m:mrow>
    <m:mrow>
-    <m:mtext>3</m:mtext>
+    <m:mtext>3-</m:mtext>
    </m:mrow>
   </m:msub>
   <m:msub>
@@ -268,10 +289,10 @@
  <m:mrow>
   <m:mtext>(weak acid) + (strong base)</m:mtext>
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
-<m:mtext>(sodium bicarbonate) + (water)</m:mtext>
+<m:mtext>(bicarbonate) + (water)</m:mtext>
  </m:mrow>
 </m:math>
-</equation><para id="fs-id1353864">As with the phosphate buffer, a weak acid or weak base captures the free ions, and a significant change in pH is prevented. Bicarbonate ions and carbonic acid are present in the blood in a 20:1 ratio if the blood pH is within the normal range. With 20 times more bicarbonate than carbonic acid, this capture system is most efficient at buffering changes that would make the blood more acidic. This is useful because most of the body’s metabolic wastes, such as lactic acid and ketone bodies, are acids. Carbonic acid levels in the blood are controlled by the expiration of CO<sub>2</sub> through the lungs. In red blood cells, carbonic anhydrase forces the dissociation of the acid, rendering the blood less acidic. Because of this acid dissociation, CO<sub>2</sub> is exhaled (see equations above). The level of bicarbonate in the blood is controlled through the renal system, where bicarbonate ions in the renal filtrate are conserved and passed back into the blood. However, the bicarbonate buffer is the primary buffering system of the IF surrounding the cells in tissues throughout the body.</para>
+</equation><para id="fs-id1353864">As with the phosphate buffer, a weak acid or weak base captures the free ions, and a significant change in pH is prevented. Bicarbonate ions and carbonic acid are present in the blood in a 20:1 ratio if the blood pH is within the normal range. With 20 times more bicarbonate than carbonic acid, this capture system is most efficient at buffering changes that would make the blood more acidic. This is useful because most of the body’s metabolic wastes, such as lactic acid and ketones, are acids. Carbonic acid levels in the blood are controlled by the expiration of CO<sub>2</sub> through the lungs. In red blood cells, carbonic anhydrase forces the dissociation of the acid, rendering the blood less acidic. Because of this acid dissociation, CO<sub>2</sub> is exhaled (see equations above). The level of bicarbonate in the blood is controlled through the renal system, where bicarbonate ions in the renal filtrate are conserved and passed back into the blood. However, the bicarbonate buffer is the primary buffering system of the IF surrounding the cells in tissues throughout the body.</para>
 </section>
 </section>
 <section id="fs-id2058062">
@@ -281,7 +302,7 @@
 </media>
 <caption>The respiratory system can reduce blood pH by removing CO<sub>2 </sub>from the blood.</caption></figure><para id="fs-id1952858">The chemical reactions that regulate the levels of CO<sub>2</sub> and carbonic acid occur in the lungs when blood travels through the lung’s pulmonary capillaries. Minor adjustments in breathing are usually sufficient to adjust the pH of the blood by changing how much CO<sub>2</sub> is exhaled. In fact, doubling the respiratory rate for less than 1 minute, removing “extra” CO<sub>2</sub>, would increase the blood pH by 0.2. This situation is common if you are exercising strenuously over a period of time. To keep up the necessary energy production, you would produce excess CO<sub>2</sub> (and lactic acid if exercising beyond your aerobic threshold). In order to balance the increased acid production, the respiration rate goes up to remove the CO<sub>2</sub>. This helps to keep you from developing acidosis.</para>
 <para id="fs-id1700837">The body regulates the respiratory rate by the use of chemoreceptors, which primarily use CO<sub>2</sub> as a signal. Peripheral blood sensors are found in the walls of the aorta and carotid arteries. These sensors signal the brain to provide immediate adjustments to the respiratory rate if CO<sub>2 </sub>levels rise or fall. Yet other sensors are found in the brain itself. Changes in the pH of CSF affect the respiratory center in the medulla oblongata, which can directly modulate breathing rate to bring the pH back into the normal range.</para>
-<para id="fs-id2004894"><term id="term-00001">Hypercapnia</term>, or abnormally elevated blood levels of CO<sub>2</sub>, occurs in any situation that impairs respiratory functions, including pneumonia and congestive heart failure. Reduced breathing (hypoventilation) due to drugs such as morphine, barbiturates, or ethanol (or even just holding one’s breath) can also result in hypercapnia. <term id="term-00002">Hypocapnia</term>, or abnormally low blood levels of CO<sub>2</sub>, occurs with any cause of hyperventilation that drives off the CO<sub>2</sub>, such as salicylate toxicity, elevated room temperatures, fever, or hysteria.</para>
+<para id="fs-id2004894"><term>Hypercapnia</term>, or abnormally elevated blood levels of CO<sub>2</sub>, occurs in any situation that impairs respiratory functions, including pneumonia and congestive heart failure. Reduced breathing (hypoventilation) due to drugs such as morphine, barbiturates, or ethanol (or even just holding one’s breath) can also result in hypercapnia. <term>Hypocapnia</term>, or abnormally low blood levels of CO<sub>2</sub>, occurs with any cause of hyperventilation that drives off the CO<sub>2</sub>, such as salicylate toxicity, elevated room temperatures, fever, or hysteria.</para>
 </section>
 <section id="fs-id2080161"><title>Renal Regulation of Acid-Base Balance</title><para id="fs-id1405109">The renal regulation of the body’s acid-base balance addresses the metabolic component of the buffering system. Whereas the respiratory system (together with breathing centers in the brain) controls the blood levels of carbonic acid by controlling the exhalation of CO<sub>2</sub>, the renal system controls the blood levels of bicarbonate. A decrease of blood bicarbonate can result from the inhibition of carbonic anhydrase by certain diuretics or from excessive bicarbonate loss due to diarrhea. Blood bicarbonate levels are also typically lower in people who have Addison’s disease (chronic adrenal insufficiency), in which aldosterone levels are reduced, and in people who have renal damage, such as chronic nephritis. Finally, low bicarbonate blood levels can result from elevated levels of ketones (common in unmanaged diabetes mellitus), which bind bicarbonate in the filtrate and prevent its conservation.</para>
 <para id="fs-id2023995">Bicarbonate ions, HCO<sub>3</sub><sup>-</sup>, found in the filtrate, are essential to the bicarbonate buffer system, yet the cells of the tubule are not permeable to bicarbonate ions. The steps involved in supplying bicarbonate ions to the system are seen in <link target-id="fig-ch27_04_03" document=""/> and are summarized below:</para>
@@ -295,8 +316,9 @@
 <para id="fs-id1849995">The hydrogen ions also compete with potassium to exchange with sodium in the renal tubules. If more potassium is present than normal, potassium, rather than the hydrogen ions, will be exchanged, and increased potassium enters the filtrate. When this occurs, fewer hydrogen ions in the filtrate participate in the conversion of bicarbonate into CO<sub>2</sub> and less bicarbonate is conserved. If there is less potassium, more hydrogen ions enter the filtrate to be exchanged with sodium and more bicarbonate is conserved.</para>
 <para id="fs-id1721352">Chloride ions are important in neutralizing positive ion charges in the body. If chloride is lost, the body uses bicarbonate ions in place of the lost chloride ions. Thus, lost chloride results in an increased reabsorption of bicarbonate by the renal system.</para>
 <note id="fs-id1473396" class="anatomy disorders">
-<title>Acid-Base Balance: Ketoacidosis</title>
-<para id="fs-id1417161">Diabetic acidosis, or ketoacidosis, occurs most frequently in people with poorly controlled diabetes mellitus. When certain tissues in the body cannot get adequate amounts of glucose, they depend on the breakdown of fatty acids for energy. When acetyl groups break off the fatty acid chains, the acetyl groups then non-enzymatically combine to form ketone bodies, acetoacetic acid, beta-hydroxybutyric acid, and acetone, all of which increase the acidity of the blood. In this condition, the brain isn’t supplied with enough of its fuel—glucose—to produce all of the ATP it requires to function.</para><para id="fs-id810193">Ketoacidosis can be severe and, if not detected and treated properly, can lead to diabetic coma, which can be fatal. A common early symptom of ketoacidosis is deep, rapid breathing as the body attempts to drive off CO<sub>2</sub> and compensate for the acidosis. Another common symptom is fruity-smelling breath, due to the exhalation of acetone. Other symptoms include dry skin and mouth, a flushed face, nausea, vomiting, and stomach pain. Treatment for diabetic coma is ingestion or injection of sugar; its prevention is the proper daily administration of insulin.</para>
+<label/>
+<title>Disorders of the…</title>
+<para id="fs-id1417161"><title>Acid-Base Balance: Ketoacidosis</title>Diabetic acidosis, or ketoacidosis, occurs most frequently in people with poorly controlled diabetes mellitus. When certain tissues in the body cannot get adequate amounts of glucose, they depend on the breakdown of fatty acids for energy. When acetyl groups break off the fatty acid chains, the acetyl groups then non-enzymatically combine to form ketone bodies, acetoacetic acid, beta-hydroxybutyric acid, and acetone, all of which increase the acidity of the blood. In this condition, the brain isn’t supplied with enough of its fuel—glucose—to produce all of the ATP it requires to function.</para><para id="fs-id810193">Ketoacidosis can be severe and, if not detected and treated properly, can lead to diabetic coma, which can be fatal. A common early symptom of ketoacidosis is deep, rapid breathing as the body attempts to drive off CO<sub>2</sub> and compensate for the acidosis. Another common symptom is fruity-smelling breath, due to the exhalation of acetone. Other symptoms include dry skin and mouth, a flushed face, nausea, vomiting, and stomach pain. Treatment for diabetic coma is ingestion or injection of sugar; its prevention is the proper daily administration of insulin.</para>
 <para id="fs-id2144142">A person who is diabetic and uses insulin can initiate ketoacidosis if a dose of insulin is missed. Among people with type 2 diabetes, those of Hispanic and African-American descent are more likely to go into ketoacidosis than those of other ethnic backgrounds, although the reason for this is unknown.</para>
 </note>
 </section><section id="fs-id1391140" class="summary">
@@ -375,7 +397,7 @@
 </solution>
 </exercise>
 <exercise id="fs-id2003025">
-<problem id="fs-id2023650"><para id="fs-id1764641">Which reaction is catalyzed by carbonic anhydrase?</para><list id="fs-id1410874" list-type="enumerated" number-style="lower-alpha"><item><m:math>
+<problem id="fs-id2023650"><para id="fs-id1764641">Which reaction is catalyzed by carbonic anhydrase?</para><list id="fs-id1410874" list-type="enumerated" number-style="lower-alpha"><item><m:math display="left">
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -395,8 +417,6 @@
 <m:mrow>
   <m:mo stretchy="false">↔</m:mo>
 </m:mrow>
-<m:msup>
-<m:mrow>
 <m:msub>
    <m:mtext>H</m:mtext>
    <m:mtext>2</m:mtext>
@@ -406,20 +426,15 @@
     <m:mtext>PO</m:mtext>
    </m:mrow>
    <m:mrow>
-    <m:mtext>4</m:mtext>
+    <m:mtext>4-</m:mtext>
    </m:mrow>
   </m:msub>
-</m:mrow>
-<m:mrow>
-  <m:mtext>–</m:mtext>
-</m:mrow>
-</m:msup>
-
+  
  </m:mrow>
 </m:math>
 </item>
 
-<item><m:math>
+<item><m:math display="left">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -447,32 +462,25 @@
    </m:mrow>
    <m:mtext>3</m:mtext>
   </m:msub>
-
+  
  </m:mrow>
 </m:math>
 </item>
 
-<item><m:math>
-
-  <m:msup>
-  <m:mrow>
+<item><m:math display="left">
+ <m:mrow>
   <m:msub>
-     <m:mtext>H</m:mtext>
-     <m:mtext>2</m:mtext>
-    </m:msub>
-    <m:msub>
-     <m:mrow>
-      <m:mtext>PO</m:mtext>
-     </m:mrow>
-     <m:mrow>
-      <m:mtext>4</m:mtext>
-     </m:mrow>
-    </m:msub>
-  </m:mrow>
-  <m:mrow>
-    <m:mtext>–</m:mtext>
-  </m:mrow>
-  </m:msup>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>PO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>4</m:mtext><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msub>
   <m:msup>
    <m:mrow>
     <m:mtext>+OH</m:mtext>
@@ -498,11 +506,11 @@
    <m:mtext>2</m:mtext>
   </m:msub>
   <m:mtext>O</m:mtext>
-
+ </m:mrow>
 </m:math>
 </item>
 
-<item><m:math>
+<item><m:math display="left">
  <m:mrow>
   <m:msub>
    <m:mtext>H</m:mtext>
@@ -517,30 +525,21 @@
 <m:mrow>
   <m:mo stretchy="false">↔</m:mo>
 </m:mrow>
-
-<m:msup>
-<m:mrow>
 <m:msub>
    <m:mrow>
     <m:mtext>HCO</m:mtext>
    </m:mrow>
    <m:mrow>
-    <m:mn>3</m:mn>
+    <m:mn>3</m:mn><m:mo>−</m:mo>
    </m:mrow>
   </m:msub>
-</m:mrow>
-<m:mrow>
-  <m:mo>–</m:mo>
-</m:mrow>
-</m:msup>
-
   <m:msup>
    <m:mrow>
     <m:mtext>+ H</m:mtext>
    </m:mrow>
    <m:mo>+</m:mo>
   </m:msup>
-
+  
  </m:mrow>
 </m:math>
 </item>
@@ -566,7 +565,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1909719"><term>hypercapnia</term> <meaning id="fs-id1907093">abnormally elevated blood levels of CO<sub>2</sub></meaning></definition>
 <definition id="fs-id1946838"><term>hypocapnia</term> <meaning id="fs-id1692582">abnormally low blood levels of CO<sub>2</sub></meaning></definition>

@@ -1,9 +1,9 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
 
-<title>Introduction </title>
+<title>Introduction</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46430</md:content-id>
-  <md:title>Introduction </md:title>
+  <md:title>Introduction</md:title>
   <md:abstract/>
   <md:uuid>439861ef-145e-44e0-8d4a-9b122897575c</md:uuid>
 </metadata>
@@ -12,7 +12,7 @@
 <figure id="fig-ch26_00_01" class="splash"><title>Sewage Treatment Plant </title><media id="fs-id2733674" alt="This photo shows a water treatment plant.">
 <image mime-type="image/jpg" src="../../media/2600_Sewage_Treatment_Plan.jpg" width="500"/>
 </media>
-<caption>(credit: “thekirbster”/flickr.com)</caption></figure>
+<caption>(credit: “eutrophication&amp;hypoxia”/flickr.com)</caption></figure>
 
 <note id="fs-id1171727978347" class="chapter-objectives">
 <title>Chapter Objectives</title>
@@ -41,5 +41,5 @@
 <label/>
 <para id="fs-id2133965">Watch this <link url="http://openstax.org/l/urineintro">video</link> from the Howard Hughes Medical Institute for an introduction to the urinary system.</para>
 </note>
- </content>
+</content>
 </document>

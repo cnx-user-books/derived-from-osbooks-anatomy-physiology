@@ -1,9 +1,9 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
 
-<title>Introduction </title>
+<title>Introduction</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46682</md:content-id>
-  <md:title>Introduction </md:title>
+  <md:title>Introduction</md:title>
   <md:abstract/>
   <md:uuid>74a4f492-5770-4f10-8b56-db59df550c5a</md:uuid>
 </metadata>
@@ -31,5 +31,5 @@
 </note>
 
 <para id="fs-id1128128">You may never have thought of it this way, but when you send a text message to two friends to meet you at the dining hall at six, you’re sending digital signals that (you hope) will affect their behavior—even though they are some distance away. Similarly, certain cells send chemical signals to other cells in the body that influence their behavior. This long-distance intercellular communication, coordination, and control is critical for homeostasis, and it is the fundamental function of the endocrine system.</para>
- </content>
+</content>
 </document>
