@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Joey Elias">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11904</md:content-id>
     <md:title>Respiration Unit</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>cc437559-cb40-4683-9c8a-e5e20e35cbd5</md:uuid>
-<md:slug>respiration-unit</md:slug>
-</metadata>
+    <md:slug>respiration-unit</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Unit 5: Energy, Maintenance, and Environmental Exchange</md:title>
