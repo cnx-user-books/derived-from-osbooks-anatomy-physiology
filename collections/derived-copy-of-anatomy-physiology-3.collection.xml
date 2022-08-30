@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Wade Hedegard">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11625</md:content-id>
     <md:title>Derived copy of Anatomy &amp; Physiology 3</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>00d321f6-5a93-4d3f-b714-e0c0eb5a6c33</md:uuid>
-<md:slug>derived-copy-of-anatomy-physiology-3</md:slug>
-</metadata>
+    <md:slug>derived-copy-of-anatomy-physiology-3</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Unit 4: Fluids and Transport</md:title>
